@@ -1,4 +1,4 @@
-# wui_host_richness
+# Zoonotic host richness in the global wildland-urban interface
 
 Data and code in this repository are provided to supplement the publication:
 

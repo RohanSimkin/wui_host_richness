@@ -1,0 +1,1968 @@
+mdd_order,mdd_sciName,disease_agent,gideon_disease
+AFROSORICIDA,Tenrec_ecaudatus,BACTERIUM,Plague
+ARTIODACTYLA,Addax_nasomaculatus,BACTERIUM,Spotted fevers - Old World
+ARTIODACTYLA,Addax_nasomaculatus,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Aepyceros_melampus,BACTERIUM,Brucellosis
+ARTIODACTYLA,Aepyceros_melampus,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Aepyceros_melampus,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Aepyceros_melampus,PARASITE,Fascioliasis
+ARTIODACTYLA,Aepyceros_melampus,PARASITE,Pentastomiasis - Armillifer
+ARTIODACTYLA,Aepyceros_melampus,PARASITE,Pentastomiasis - Linguatula
+ARTIODACTYLA,Alcelaphus_buselaphus,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Alces_alces,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Alces_alces,BACTERIUM,Bartonellosis - other systemic
+ARTIODACTYLA,Alces_alces,BACTERIUM,Brucellosis
+ARTIODACTYLA,Alces_alces,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Alces_alces,PARASITE,Fascioliasis
+ARTIODACTYLA,Alces_alces,PARASITE,Giardiasis
+ARTIODACTYLA,Alces_alces,VIRUS,Hantaviruses - Old World
+ARTIODACTYLA,Alces_alces,VIRUS,Hepatitis E
+ARTIODACTYLA,Alces_alces,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Ammotragus_lervia,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Antidorcas_marsupialis,BACTERIUM,Anthrax
+ARTIODACTYLA,Antilocapra_americana,PARASITE,Capillariasis - extraintestinal
+ARTIODACTYLA,Antilocapra_americana,VIRUS,Eastern equine encephalitis
+ARTIODACTYLA,Bos_bison,BACTERIUM,Anthrax
+ARTIODACTYLA,Bos_bison,BACTERIUM,Brucellosis
+ARTIODACTYLA,Bos_bison,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Bos_bison,BACTERIUM,Escherichia coli diarrhea
+ARTIODACTYLA,Bos_bison,PARASITE,Giardiasis
+ARTIODACTYLA,Bos_bison,VIRUS,Hepatitis E
+ARTIODACTYLA,Bos_bison,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Bos_bonasus,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Bos_bonasus,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Bos_bonasus,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Blastocerus_dichotomus,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Blastocerus_dichotomus,VIRUS,Rabies
+ARTIODACTYLA,Boselaphus_tragocamelus,BACTERIUM,Anthrax
+ARTIODACTYLA,Budorcas_taxicolor,BACTERIUM,Brucellosis
+ARTIODACTYLA,Budorcas_taxicolor,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Budorcas_taxicolor,PARASITE,Giardiasis
+ARTIODACTYLA,Budorcas_taxicolor,FUNGUS,Microsporidiosis
+ARTIODACTYLA,Capra_falconeri,VIRUS,Tick-borne encephalitis
+ARTIODACTYLA,Capra_ibex,BACTERIUM,Brucellosis
+ARTIODACTYLA,Capra_ibex,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Capra_ibex,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Capra_ibex,BACTERIUM,Q-fever
+ARTIODACTYLA,Capra_ibex,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Capra_nubiana,PARASITE,Coenurosis
+ARTIODACTYLA,Capra_pyrenaica,BACTERIUM,Brucellosis
+ARTIODACTYLA,Capra_pyrenaica,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Capreolus_capreolus,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Capreolus_capreolus,PARASITE,Babesiosis
+ARTIODACTYLA,Capreolus_capreolus,BACTERIUM,Bartonellosis - other systemic
+ARTIODACTYLA,Capreolus_capreolus,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Capreolus_capreolus,PARASITE,Dicrocoeliasis
+ARTIODACTYLA,Capreolus_capreolus,PARASITE,Fascioliasis
+ARTIODACTYLA,Capreolus_capreolus,PARASITE,Giardiasis
+ARTIODACTYLA,Capreolus_capreolus,VIRUS,Hantaviruses - Old World
+ARTIODACTYLA,Capreolus_capreolus,VIRUS,Hepatitis E
+ARTIODACTYLA,Capreolus_capreolus,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Capreolus_capreolus,BACTERIUM,Lyme disease
+ARTIODACTYLA,Capreolus_capreolus,BACTERIUM,Q-fever
+ARTIODACTYLA,Capreolus_capreolus,VIRUS,Tick-borne encephalitis
+ARTIODACTYLA,Capreolus_capreolus,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Capreolus_capreolus,PARASITE,Trichostrongyliasis
+ARTIODACTYLA,Capricornis_crispus,PARASITE,Dicrocoeliasis
+ARTIODACTYLA,Capricornis_crispus,PARASITE,Onchocerciasis - zoonotic
+ARTIODACTYLA,Capricornis_crispus,VIRUS,Orf
+ARTIODACTYLA,Capricornis_crispus,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Cephalophus_dorsalis,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Anthrax
+ARTIODACTYLA,Cervus_elaphus,PARASITE,Babesiosis
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Brucellosis
+ARTIODACTYLA,Cervus_elaphus,VIRUS,Crimean-Congo hemorrhagic fever
+ARTIODACTYLA,Cervus_elaphus,PARASITE,Dicrocoeliasis
+ARTIODACTYLA,Cervus_elaphus,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Cervus_elaphus,PARASITE,Fascioliasis
+ARTIODACTYLA,Cervus_elaphus,PARASITE,Giardiasis
+ARTIODACTYLA,Cervus_elaphus,VIRUS,Hepatitis E
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Cervus_elaphus,FUNGUS,Microsporidiosis
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Ornithosis
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Q-fever
+ARTIODACTYLA,Cervus_elaphus,VIRUS,Tick-borne encephalitis
+ARTIODACTYLA,Cervus_elaphus,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Cervus_elaphus,PARASITE,Trichostrongyliasis
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Cervus_elaphus,BACTERIUM,Yersiniosis
+ARTIODACTYLA,Cervus_nippon,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Cervus_nippon,PARASITE,Babesiosis
+ARTIODACTYLA,Cervus_nippon,BACTERIUM,Ehrlichiosis - human monocytic
+ARTIODACTYLA,Cervus_nippon,BACTERIUM,Escherichia coli diarrhea
+ARTIODACTYLA,Cervus_nippon,PARASITE,Fascioliasis
+ARTIODACTYLA,Cervus_nippon,VIRUS,Hepatitis E
+ARTIODACTYLA,Cervus_nippon,BACTERIUM,Listeriosis
+ARTIODACTYLA,Cervus_nippon,FUNGUS,Microsporidiosis
+ARTIODACTYLA,Cervus_nippon,PARASITE,Sarcocystosis
+ARTIODACTYLA,Cervus_nippon,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Connochaetes_taurinus,BACTERIUM,Anthrax
+ARTIODACTYLA,Connochaetes_taurinus,BACTERIUM,Brucellosis
+ARTIODACTYLA,Connochaetes_taurinus,PARASITE,Pentastomiasis - Armillifer
+ARTIODACTYLA,Connochaetes_taurinus,PARASITE,Pentastomiasis - Linguatula
+ARTIODACTYLA,Dama_dama,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Dama_dama,PARASITE,Fascioliasis
+ARTIODACTYLA,Dama_dama,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Dama_dama,BACTERIUM,Listeriosis
+ARTIODACTYLA,Dama_dama,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Dama_dama,BACTERIUM,Yersiniosis
+ARTIODACTYLA,Gazella_dorcas,VIRUS,Rift Valley fever
+ARTIODACTYLA,Giraffa_camelopardalis,VIRUS,Crimean-Congo hemorrhagic fever
+ARTIODACTYLA,Giraffa_camelopardalis,PARASITE,Pentastomiasis - Armillifer
+ARTIODACTYLA,Giraffa_camelopardalis,PARASITE,Pentastomiasis - Linguatula
+ARTIODACTYLA,Giraffa_camelopardalis,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Giraffa_camelopardalis,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Hippopotamus_amphibius,BACTERIUM,Anthrax
+ARTIODACTYLA,Hippopotamus_amphibius,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Hippopotamus_amphibius,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Hippotragus_niger,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Hydropotes_inermis,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Hydropotes_inermis,BACTERIUM,Bartonellosis - other systemic
+ARTIODACTYLA,Hydropotes_inermis,BACTERIUM,Brucellosis
+ARTIODACTYLA,Hydropotes_inermis,BACTERIUM,Q-fever
+ARTIODACTYLA,Kobus_ellipsiprymnus,VIRUS,Rift Valley fever
+ARTIODACTYLA,Kobus_ellipsiprymnus,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Kobus_ellipsiprymnus,PARASITE,Pentastomiasis - Armillifer
+ARTIODACTYLA,Kobus_ellipsiprymnus,PARASITE,Pentastomiasis - Linguatula
+ARTIODACTYLA,Kobus_kob,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Kobus_leche,BACTERIUM,Brucellosis
+ARTIODACTYLA,Mazama_americana,VIRUS,Rabies
+ARTIODACTYLA,Mazama_americana,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Mazama_gouazoubira,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Mazama_gouazoubira,BACTERIUM,Ehrlichiosis - human monocytic
+ARTIODACTYLA,Mazama_gouazoubira,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Muntiacus_reevesi,BACTERIUM,Ehrlichiosis - human monocytic
+ARTIODACTYLA,Odocoileus_hemionus,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Odocoileus_hemionus,BACTERIUM,Brucellosis
+ARTIODACTYLA,Odocoileus_hemionus,VIRUS,California encephalitis group
+ARTIODACTYLA,Odocoileus_hemionus,PARASITE,Dicrocoeliasis
+ARTIODACTYLA,Odocoileus_hemionus,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Odocoileus_hemionus,BACTERIUM,Escherichia coli diarrhea
+ARTIODACTYLA,Odocoileus_hemionus,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Odocoileus_hemionus,BACTERIUM,Relapsing fever
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Anthrax
+ARTIODACTYLA,Odocoileus_virginianus,PARASITE,Babesiosis
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Bartonellosis - other systemic
+ARTIODACTYLA,Odocoileus_virginianus,VIRUS,Bunyaviridae infections - misc.
+ARTIODACTYLA,Odocoileus_virginianus,VIRUS,California encephalitis group
+ARTIODACTYLA,Odocoileus_virginianus,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Odocoileus_virginianus,PARASITE,Dicrocoeliasis
+ARTIODACTYLA,Odocoileus_virginianus,VIRUS,Eastern equine encephalitis
+ARTIODACTYLA,Odocoileus_virginianus,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Ehrlichiosis - human monocytic
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Escherichia coli diarrhea
+ARTIODACTYLA,Odocoileus_virginianus,PARASITE,Giardiasis
+ARTIODACTYLA,Odocoileus_virginianus,PARASITE,Gongylonemiasis
+ARTIODACTYLA,Odocoileus_virginianus,VIRUS,Hepatitis E
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Listeriosis
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Lyme disease
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Q-fever
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Relapsing fever
+ARTIODACTYLA,Odocoileus_virginianus,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Odocoileus_virginianus,VIRUS,Venezuelan equine encephalitis
+ARTIODACTYLA,Odocoileus_virginianus,BACTERIUM,Yersiniosis
+ARTIODACTYLA,Oreamnos_americanus,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Oreamnos_americanus,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Oreamnos_americanus,PARASITE,Fascioliasis
+ARTIODACTYLA,Oryx_beisa,BACTERIUM,Brucellosis
+ARTIODACTYLA,Oryx_gazella,BACTERIUM,Anthrax
+ARTIODACTYLA,Oryx_gazella,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Oryx_leucoryx,BACTERIUM,Q-fever
+ARTIODACTYLA,Oryx_leucoryx,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Ovibos_moschatus,PARASITE,Giardiasis
+ARTIODACTYLA,Ovibos_moschatus,VIRUS,Orf
+ARTIODACTYLA,Ovis_ammon,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Ovis_dalli,VIRUS,Orf
+ARTIODACTYLA,Ozotoceros_bezoarticus,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Dicotyles_tajacu,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Phacochoerus_aethiopicus,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Philantomba_monticola,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Rangifer_tarandus,PARASITE,Babesiosis
+ARTIODACTYLA,Rangifer_tarandus,BACTERIUM,Brucellosis
+ARTIODACTYLA,Rangifer_tarandus,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Rangifer_tarandus,PARASITE,Giardiasis
+ARTIODACTYLA,Rangifer_tarandus,VIRUS,Orf
+ARTIODACTYLA,Rangifer_tarandus,VIRUS,Rabies
+ARTIODACTYLA,Rangifer_tarandus,PARASITE,Sarcocystosis
+ARTIODACTYLA,Rangifer_tarandus,VIRUS,Tick-borne encephalitis
+ARTIODACTYLA,Rangifer_tarandus,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Redunca_redunca,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Rupicapra_pyrenaica,BACTERIUM,Brucellosis
+ARTIODACTYLA,Rupicapra_pyrenaica,BACTERIUM,Lyme disease
+ARTIODACTYLA,Rupicapra_pyrenaica,BACTERIUM,Spotted fevers - Old World
+ARTIODACTYLA,Rupicapra_pyrenaica,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Rupicapra_rupicapra,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Rupicapra_rupicapra,PARASITE,Babesiosis
+ARTIODACTYLA,Rupicapra_rupicapra,BACTERIUM,Brucellosis
+ARTIODACTYLA,Rupicapra_rupicapra,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Rupicapra_rupicapra,BACTERIUM,Lyme disease
+ARTIODACTYLA,Rupicapra_rupicapra,VIRUS,Orf
+ARTIODACTYLA,Rupicapra_rupicapra,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Rusa_timorensis,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Anaplasmosis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Anthrax
+ARTIODACTYLA,Sus_scrofa,PARASITE,Balantidiasis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Brucellosis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Campylobacteriosis
+ARTIODACTYLA,Sus_scrofa,VIRUS,Crimean-Congo hemorrhagic fever
+ARTIODACTYLA,Sus_scrofa,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Sus_scrofa,PARASITE,Echinococcosis - multilocular
+ARTIODACTYLA,Sus_scrofa,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Sus_scrofa,PARASITE,Fascioliasis
+ARTIODACTYLA,Sus_scrofa,PARASITE,Giardiasis
+ARTIODACTYLA,Sus_scrofa,PARASITE,Gnathostomiasis
+ARTIODACTYLA,Sus_scrofa,PARASITE,Gongylonemiasis
+ARTIODACTYLA,Sus_scrofa,VIRUS,Hepatitis E
+ARTIODACTYLA,Sus_scrofa,VIRUS,Japanese encephalitis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Listeriosis
+ARTIODACTYLA,Sus_scrofa,FUNGUS,Paracoccidioidomycosis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Q-fever
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Salmonellosis
+ARTIODACTYLA,Sus_scrofa,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Sus_scrofa,PARASITE,Trichinosis
+ARTIODACTYLA,Sus_scrofa,PARASITE,Trichostrongyliasis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Tularemia
+ARTIODACTYLA,Sus_scrofa,VIRUS,Venezuelan equine encephalitis
+ARTIODACTYLA,Sus_scrofa,BACTERIUM,Yersiniosis
+ARTIODACTYLA,Syncerus_caffer,BACTERIUM,Brucellosis
+ARTIODACTYLA,Syncerus_caffer,VIRUS,Chikungunya
+ARTIODACTYLA,Syncerus_caffer,VIRUS,Crimean-Congo hemorrhagic fever
+ARTIODACTYLA,Syncerus_caffer,PARASITE,Cryptosporidiosis
+ARTIODACTYLA,Syncerus_caffer,PARASITE,Echinococcosis - unilocular
+ARTIODACTYLA,Syncerus_caffer,PARASITE,Giardiasis
+ARTIODACTYLA,Syncerus_caffer,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Syncerus_caffer,PARASITE,Pentastomiasis - Armillifer
+ARTIODACTYLA,Syncerus_caffer,PARASITE,Pentastomiasis - Linguatula
+ARTIODACTYLA,Syncerus_caffer,VIRUS,Rift Valley fever
+ARTIODACTYLA,Syncerus_caffer,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Syncerus_caffer,VIRUS,West Nile fever
+ARTIODACTYLA,Tragelaphus_oryx,BACTERIUM,Brucellosis
+ARTIODACTYLA,Tragelaphus_oryx,VIRUS,Crimean-Congo hemorrhagic fever
+ARTIODACTYLA,Tayassu_pecari,BACTERIUM,Leptospirosis
+ARTIODACTYLA,Tayassu_pecari,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Tragelaphus_angasii,PARASITE,Schistosomiasis - mattheei
+ARTIODACTYLA,Tragelaphus_angasii,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Tragelaphus_scriptus,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Tragelaphus_strepsiceros,BACTERIUM,Anthrax
+ARTIODACTYLA,Tragelaphus_strepsiceros,VIRUS,Crimean-Congo hemorrhagic fever
+ARTIODACTYLA,Tragelaphus_strepsiceros,VIRUS,Rabies
+ARTIODACTYLA,Tragelaphus_strepsiceros,PARASITE,Schistosomiasis - mattheei
+ARTIODACTYLA,Tragelaphus_strepsiceros,PARASITE,Toxoplasmosis
+ARTIODACTYLA,Tragelaphus_strepsiceros,PARASITE,Trypanosomiasis - African
+ARTIODACTYLA,Tragelaphus_strepsiceros,BACTERIUM,Tuberculosis
+ARTIODACTYLA,Tragelaphus_strepsiceros,PARASITE,Pentastomiasis - Armillifer
+ARTIODACTYLA,Tragelaphus_strepsiceros,PARASITE,Pentastomiasis - Linguatula
+ARTIODACTYLA,Damaliscus_lunatus,PARASITE,Pentastomiasis - Armillifer
+ARTIODACTYLA,Damaliscus_lunatus,PARASITE,Pentastomiasis - Linguatula
+ARTIODACTYLA,Hippotragus_equinus,PARASITE,Trypanosomiasis - African
+CARNIVORA,Acinonyx_jubatus,BACTERIUM,Anthrax
+CARNIVORA,Acinonyx_jubatus,PARASITE,Toxoplasmosis
+CARNIVORA,Ailuropoda_melanoleuca,PARASITE,Toxoplasmosis
+CARNIVORA,Ailuropoda_melanoleuca,PARASITE,Cryptosporidiosis
+CARNIVORA,Ailurus_fulgens,PARASITE,Cryptosporidiosis
+CARNIVORA,Arctictis_binturong,VIRUS,Influenza
+CARNIVORA,Arctocephalus_pusillus,PARASITE,Toxoplasmosis
+CARNIVORA,Atilax_paludinosus,PARASITE,Paragonimiasis
+CARNIVORA,Atilax_paludinosus,VIRUS,Rabies
+CARNIVORA,Bassariscus_astutus,PARASITE,Baylisascariasis
+CARNIVORA,Bassariscus_astutus,PARASITE,Trypanosomiasis - American
+CARNIVORA,Canis_aureus,BACTERIUM,Anaplasmosis
+CARNIVORA,Canis_aureus,BACTERIUM,Brucellosis
+CARNIVORA,Canis_aureus,PARASITE,Dipylidiasis
+CARNIVORA,Canis_aureus,PARASITE,Dirofilariasis
+CARNIVORA,Canis_aureus,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Canis_aureus,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Canis_aureus,BACTERIUM,Ehrlichiosis - human monocytic
+CARNIVORA,Canis_aureus,PARASITE,Giardiasis
+CARNIVORA,Canis_aureus,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Canis_aureus,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Canis_aureus,PARASITE,Acanthocephalan infections
+CARNIVORA,Canis_aureus,VIRUS,Rabies
+CARNIVORA,Canis_aureus,PARASITE,Toxocariasis
+CARNIVORA,Canis_aureus,PARASITE,Trichinosis
+CARNIVORA,Canis_latrans,BACTERIUM,Anaplasmosis
+CARNIVORA,Canis_latrans,BACTERIUM,Bartonellosis - other systemic
+CARNIVORA,Canis_latrans,VIRUS,California encephalitis group
+CARNIVORA,Canis_latrans,PARASITE,Cryptosporidiosis
+CARNIVORA,Canis_latrans,PARASITE,Dirofilariasis
+CARNIVORA,Canis_latrans,VIRUS,Eastern equine encephalitis
+CARNIVORA,Canis_latrans,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Canis_latrans,BACTERIUM,Ehrlichiosis - human monocytic
+CARNIVORA,Canis_latrans,PARASITE,Giardiasis
+CARNIVORA,Canis_latrans,BACTERIUM,Leptospirosis
+CARNIVORA,Canis_latrans,BACTERIUM,Lyme disease
+CARNIVORA,Canis_latrans,PARASITE,Paragonimiasis
+CARNIVORA,Canis_latrans,BACTERIUM,Plague
+CARNIVORA,Canis_latrans,VIRUS,Powassan
+CARNIVORA,Canis_latrans,VIRUS,Rabies
+CARNIVORA,Canis_latrans,BACTERIUM,Spotted fevers - New World
+CARNIVORA,Canis_latrans,PARASITE,Toxocariasis
+CARNIVORA,Canis_latrans,PARASITE,Toxoplasmosis
+CARNIVORA,Canis_latrans,PARASITE,Trypanosomiasis - American
+CARNIVORA,Canis_latrans,VIRUS,West Nile fever
+CARNIVORA,Canis_lupus,BACTERIUM,Anaplasmosis
+CARNIVORA,Canis_lupus,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Canis_lupus,BACTERIUM,Bartonellosis - other systemic
+CARNIVORA,Canis_lupus,PARASITE,Coenurosis
+CARNIVORA,Canis_lupus,PARASITE,Diphyllobothriasis
+CARNIVORA,Canis_lupus,PARASITE,Dipylidiasis
+CARNIVORA,Canis_lupus,PARASITE,Dirofilariasis
+CARNIVORA,Canis_lupus,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Canis_lupus,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Canis_lupus,BACTERIUM,Ehrlichiosis - human monocytic
+CARNIVORA,Canis_lupus,PARASITE,Giardiasis
+CARNIVORA,Canis_lupus,VIRUS,Influenza
+CARNIVORA,Canis_lupus,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Canis_lupus,BACTERIUM,Leptospirosis
+CARNIVORA,Canis_lupus,PARASITE,Acanthocephalan infections
+CARNIVORA,Canis_lupus,PARASITE,Sarcocystosis
+CARNIVORA,Canis_lupus,PARASITE,Toxocariasis
+CARNIVORA,Canis_lupus,PARASITE,Toxoplasmosis
+CARNIVORA,Canis_lupus,PARASITE,Trichinosis
+CARNIVORA,Canis_lupus,BACTERIUM,Yersiniosis
+CARNIVORA,Lupulella_mesomelas,BACTERIUM,Anthrax
+CARNIVORA,Lupulella_mesomelas,VIRUS,Rabies
+CARNIVORA,Canis_simensis,VIRUS,Rabies
+CARNIVORA,Caracal_caracal,BACTERIUM,Anthrax
+CARNIVORA,Caracal_caracal,PARASITE,Toxoplasmosis
+CARNIVORA,Cerdocyon_thous,PARASITE,Capillariasis - extraintestinal
+CARNIVORA,Cerdocyon_thous,PARASITE,Dioctophyma renale infection
+CARNIVORA,Cerdocyon_thous,PARASITE,Dipylidiasis
+CARNIVORA,Cerdocyon_thous,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Cerdocyon_thous,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Cerdocyon_thous,BACTERIUM,Leptospirosis
+CARNIVORA,Cerdocyon_thous,VIRUS,Rabies
+CARNIVORA,Cerdocyon_thous,PARASITE,Toxoplasmosis
+CARNIVORA,Chrotogale_owstoni,VIRUS,Influenza
+CARNIVORA,Chrysocyon_brachyurus,PARASITE,Dirofilariasis
+CARNIVORA,Chrysocyon_brachyurus,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Chrysocyon_brachyurus,BACTERIUM,Leptospirosis
+CARNIVORA,Chrysocyon_brachyurus,VIRUS,Rabies
+CARNIVORA,Chrysocyon_brachyurus,PARASITE,Toxoplasmosis
+CARNIVORA,Civettictis_civetta,VIRUS,Rabies
+CARNIVORA,Conepatus_chinga,BACTERIUM,Leptospirosis
+CARNIVORA,Crocuta_crocuta,PARASITE,Dipylidiasis
+CARNIVORA,Crocuta_crocuta,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Crocuta_crocuta,VIRUS,Rabies
+CARNIVORA,Crocuta_crocuta,PARASITE,Trypanosomiasis - African
+CARNIVORA,Crossarchus_obscurus,PARASITE,Paragonimiasis
+CARNIVORA,Cryptoprocta_ferox,PARASITE,Toxoplasmosis
+CARNIVORA,Cynictis_penicillata,VIRUS,Rabies
+CARNIVORA,Cystophora_cristata,PARASITE,Cryptosporidiosis
+CARNIVORA,Cystophora_cristata,PARASITE,Giardiasis
+CARNIVORA,Cystophora_cristata,PARASITE,Toxoplasmosis
+CARNIVORA,Eira_barbara,VIRUS,Mayaro
+CARNIVORA,Eira_barbara,VIRUS,Yellow fever
+CARNIVORA,Enhydra_lutris,BACTERIUM,Campylobacteriosis
+CARNIVORA,Enhydra_lutris,FUNGUS,Coccidioidomycosis
+CARNIVORA,Enhydra_lutris,FUNGUS,Histoplasmosis
+CARNIVORA,Enhydra_lutris,BACTERIUM,Salmonellosis
+CARNIVORA,Erignathus_barbatus,PARASITE,Toxoplasmosis
+CARNIVORA,Eumetopias_jubatus,BACTERIUM,Q-fever
+CARNIVORA,Otocolobus_manul,PARASITE,Toxoplasmosis
+CARNIVORA,Felis_margarita,PARASITE,Toxoplasmosis
+CARNIVORA,Felis_nigripes,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Felis_nigripes,PARASITE,Leishmaniasis - mucocutaneous
+CARNIVORA,Felis_silvestris,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Felis_silvestris,BACTERIUM,Bartonellosis - other systemic
+CARNIVORA,Felis_silvestris,PARASITE,Dirofilariasis
+CARNIVORA,Felis_silvestris,BACTERIUM,Leptospirosis
+CARNIVORA,Felis_silvestris,PARASITE,Thelaziasis
+CARNIVORA,Felis_silvestris,PARASITE,Toxoplasmosis
+CARNIVORA,Galictis_cuja,PARASITE,Dioctophyma renale infection
+CARNIVORA,Genetta_genetta,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Genetta_genetta,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Genetta_genetta,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Genetta_genetta,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Genetta_genetta,BACTERIUM,Leptospirosis
+CARNIVORA,Genetta_genetta,PARASITE,Toxoplasmosis
+CARNIVORA,Genetta_genetta,PARASITE,Trypanosomiasis - African
+CARNIVORA,Genetta_servalina,PARASITE,Trypanosomiasis - African
+CARNIVORA,Gulo_gulo,PARASITE,Toxoplasmosis
+CARNIVORA,Halichoerus_grypus,PARASITE,Anisakiasis
+CARNIVORA,Halichoerus_grypus,BACTERIUM,Campylobacteriosis
+CARNIVORA,Halichoerus_grypus,VIRUS,Pseudocowpox
+CARNIVORA,Halichoerus_grypus,PARASITE,Toxoplasmosis
+CARNIVORA,Urva_brachyura,VIRUS,Herpes B infection
+CARNIVORA,Urva_edwardsii,VIRUS,Herpes B infection
+CARNIVORA,Urva_fusca,VIRUS,Rabies
+CARNIVORA,Herpestes_ichneumon,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Herpestes_ichneumon,BACTERIUM,Leptospirosis
+CARNIVORA,Herpestes_ichneumon,PARASITE,Toxoplasmosis
+CARNIVORA,Urva_javanica,BACTERIUM,Campylobacteriosis
+CARNIVORA,Urva_javanica,VIRUS,Rabies
+CARNIVORA,Urva_javanica,BACTERIUM,Salmonellosis
+CARNIVORA,Xenogale_naso,VIRUS,Herpes B infection
+CARNIVORA,Urva_semitorquata,VIRUS,Herpes B infection
+CARNIVORA,Urva_smithii,VIRUS,Herpes B infection
+CARNIVORA,Urva_urva,VIRUS,Herpes B infection
+CARNIVORA,Urva_vitticolla,VIRUS,Herpes B infection
+CARNIVORA,Hyaena_hyaena,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Hyaena_hyaena,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Leopardus_colocola,PARASITE,Toxoplasmosis
+CARNIVORA,Leopardus_geoffroyi,PARASITE,Dirofilariasis
+CARNIVORA,Leopardus_geoffroyi,PARASITE,Toxoplasmosis
+CARNIVORA,Leopardus_pardalis,PARASITE,Dirofilariasis
+CARNIVORA,Leopardus_pardalis,PARASITE,Toxoplasmosis
+CARNIVORA,Leopardus_tigrinus,PARASITE,Toxoplasmosis
+CARNIVORA,Leopardus_wiedii,PARASITE,Dirofilariasis
+CARNIVORA,Leopardus_wiedii,PARASITE,Toxoplasmosis
+CARNIVORA,Leptailurus_serval,BACTERIUM,Leptospirosis
+CARNIVORA,Leptonychotes_weddellii,PARASITE,Toxoplasmosis
+CARNIVORA,Lobodon_carcinophaga,PARASITE,Toxoplasmosis
+CARNIVORA,Lontra_canadensis,PARASITE,Diphyllobothriasis
+CARNIVORA,Lontra_canadensis,PARASITE,Giardiasis
+CARNIVORA,Lutra_lutra,PARASITE,Diphyllobothriasis
+CARNIVORA,Lutra_lutra,PARASITE,Dirofilariasis
+CARNIVORA,Lutra_lutra,PARASITE,Metorchiasis
+CARNIVORA,Lutra_lutra,FUNGUS,Microsporidiosis
+CARNIVORA,Lutra_lutra,PARASITE,Opisthorchiasis
+CARNIVORA,Lutra_lutra,PARASITE,Toxoplasmosis
+CARNIVORA,Lycalopex_griseus,BACTERIUM,Leptospirosis
+CARNIVORA,Lycalopex_gymnocercus,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Lycalopex_vetulus,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Lycaon_pictus,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Lycaon_pictus,VIRUS,Rabies
+CARNIVORA,Lynx_canadensis,PARASITE,Cryptosporidiosis
+CARNIVORA,Lynx_canadensis,PARASITE,Giardiasis
+CARNIVORA,Lynx_canadensis,BACTERIUM,Plague
+CARNIVORA,Lynx_canadensis,PARASITE,Toxoplasmosis
+CARNIVORA,Lynx_lynx,PARASITE,Cryptosporidiosis
+CARNIVORA,Lynx_lynx,PARASITE,Diphyllobothriasis
+CARNIVORA,Lynx_lynx,PARASITE,Echinococcosis - American polycystic
+CARNIVORA,Lynx_lynx,PARASITE,Giardiasis
+CARNIVORA,Lynx_lynx,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Lynx_lynx,BACTERIUM,Leptospirosis
+CARNIVORA,Lynx_lynx,BACTERIUM,Plague
+CARNIVORA,Lynx_lynx,VIRUS,Rabies
+CARNIVORA,Lynx_lynx,PARASITE,Thelaziasis
+CARNIVORA,Lynx_lynx,PARASITE,Toxocariasis
+CARNIVORA,Lynx_lynx,PARASITE,Toxoplasmosis
+CARNIVORA,Lynx_lynx,PARASITE,Trichinosis
+CARNIVORA,Lynx_lynx,PARASITE,Trypanosomiasis - American
+CARNIVORA,Lynx_lynx,BACTERIUM,Tuberculosis
+CARNIVORA,Lynx_lynx,VIRUS,Vaccinia and cowpox
+CARNIVORA,Lynx_pardinus,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Lynx_pardinus,BACTERIUM,Leptospirosis
+CARNIVORA,Lynx_pardinus,PARASITE,Toxocariasis
+CARNIVORA,Lynx_pardinus,PARASITE,Toxoplasmosis
+CARNIVORA,Lynx_rufus,PARASITE,Cryptosporidiosis
+CARNIVORA,Lynx_rufus,PARASITE,Echinococcosis - American polycystic
+CARNIVORA,Lynx_rufus,PARASITE,Giardiasis
+CARNIVORA,Lynx_rufus,BACTERIUM,Plague
+CARNIVORA,Lynx_rufus,VIRUS,Rabies
+CARNIVORA,Lynx_rufus,PARASITE,Toxocariasis
+CARNIVORA,Lynx_rufus,PARASITE,Toxoplasmosis
+CARNIVORA,Lynx_rufus,PARASITE,Trypanosomiasis - American
+CARNIVORA,Martes_americana,PARASITE,Dioctophyma renale infection
+CARNIVORA,Martes_foina,PARASITE,Dirofilariasis
+CARNIVORA,Martes_foina,VIRUS,Rabies
+CARNIVORA,Martes_foina,PARASITE,Thelaziasis
+CARNIVORA,Martes_foina,PARASITE,Toxoplasmosis
+CARNIVORA,Martes_foina,PARASITE,Trichinosis
+CARNIVORA,Martes_foina,BACTERIUM,Tularemia
+CARNIVORA,Martes_martes,PARASITE,Dioctophyma renale infection
+CARNIVORA,Martes_martes,PARASITE,Dirofilariasis
+CARNIVORA,Martes_martes,BACTERIUM,Japanese spotted fever
+CARNIVORA,Martes_martes,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Martes_martes,FUNGUS,Microsporidiosis
+CARNIVORA,Martes_martes,VIRUS,Rabies
+CARNIVORA,Martes_martes,PARASITE,Sarcocystosis
+CARNIVORA,Martes_martes,PARASITE,Thelaziasis
+CARNIVORA,Martes_martes,PARASITE,Toxoplasmosis
+CARNIVORA,Martes_martes,PARASITE,Trichinosis
+CARNIVORA,Martes_martes,BACTERIUM,Tularemia
+CARNIVORA,Martes_melampus,BACTERIUM,Japanese spotted fever
+CARNIVORA,Martes_melampus,PARASITE,Sarcocystosis
+CARNIVORA,Martes_melampus,PARASITE,Trichinosis
+CARNIVORA,Pekania_pennanti,PARASITE,Sarcocystosis
+CARNIVORA,Pekania_pennanti,PARASITE,Toxoplasmosis
+CARNIVORA,Meles_anakuma,PARASITE,Sarcocystosis
+CARNIVORA,Meles_meles,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Meles_meles,BACTERIUM,Bartonellosis - other systemic
+CARNIVORA,Meles_meles,VIRUS,Bunyaviridae infections - misc.
+CARNIVORA,Meles_meles,PARASITE,Dirofilariasis
+CARNIVORA,Meles_meles,FUNGUS,Histoplasmosis
+CARNIVORA,Meles_meles,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Meles_meles,BACTERIUM,Leptospirosis
+CARNIVORA,Meles_meles,PARASITE,Sarcocystosis
+CARNIVORA,Meles_meles,PARASITE,Toxoplasmosis
+CARNIVORA,Meles_meles,PARASITE,Trichinosis
+CARNIVORA,Meles_meles,BACTERIUM,Tuberculosis
+CARNIVORA,Mellivora_capensis,VIRUS,Rabies
+CARNIVORA,Melogale_moschata,VIRUS,Rabies
+CARNIVORA,Melogale_moschata,VIRUS,SARS
+CARNIVORA,Mephitis_macroura,VIRUS,West Nile fever
+CARNIVORA,Mephitis_mephitis,BACTERIUM,Anaplasmosis
+CARNIVORA,Mephitis_mephitis,VIRUS,California encephalitis group
+CARNIVORA,Mephitis_mephitis,PARASITE,Paragonimiasis
+CARNIVORA,Mephitis_mephitis,VIRUS,Powassan
+CARNIVORA,Mephitis_mephitis,VIRUS,Rabies
+CARNIVORA,Mephitis_mephitis,PARASITE,Toxoplasmosis
+CARNIVORA,Mephitis_mephitis,PARASITE,Trypanosomiasis - American
+CARNIVORA,Mephitis_mephitis,BACTERIUM,Tularemia
+CARNIVORA,Mephitis_mephitis,VIRUS,West Nile fever
+CARNIVORA,Mirounga_angustirostris,VIRUS,Influenza
+CARNIVORA,Mirounga_leonina,PARASITE,Toxoplasmosis
+CARNIVORA,Monachus_monachus,PARASITE,Dirofilariasis
+CARNIVORA,Monachus_monachus,BACTERIUM,Leptospirosis
+CARNIVORA,Monachus_monachus,PARASITE,Toxoplasmosis
+CARNIVORA,Monachus_monachus,VIRUS,West Nile fever
+CARNIVORA,Neomonachus_schauinslandi,PARASITE,Dirofilariasis
+CARNIVORA,Neomonachus_schauinslandi,BACTERIUM,Leptospirosis
+CARNIVORA,Neomonachus_schauinslandi,PARASITE,Toxoplasmosis
+CARNIVORA,Mungos_mungo,BACTERIUM,Leptospirosis
+CARNIVORA,Mungos_mungo,BACTERIUM,Tuberculosis
+CARNIVORA,Mungos_mungo,VIRUS,Vaccinia and cowpox
+CARNIVORA,Mustela_altaica,PARASITE,Toxoplasmosis
+CARNIVORA,Mustela_erminea,PARASITE,Cryptosporidiosis
+CARNIVORA,Mustela_erminea,PARASITE,Trichinosis
+CARNIVORA,Mustela_itatsi,PARASITE,Gnathostomiasis
+CARNIVORA,Mustela_lutreola,BACTERIUM,Leptospirosis
+CARNIVORA,Mustela_lutreola,BACTERIUM,Lyme disease
+CARNIVORA,Mustela_nivalis,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Mustela_putorius,PARASITE,Dirofilariasis
+CARNIVORA,Mustela_putorius,BACTERIUM,Leptospirosis
+CARNIVORA,Mustela_putorius,VIRUS,Rabies
+CARNIVORA,Mustela_putorius,PARASITE,Toxoplasmosis
+CARNIVORA,Mustela_sibirica,PARASITE,Gnathostomiasis
+CARNIVORA,Nandinia_binotata,PARASITE,Trypanosomiasis - African
+CARNIVORA,Nasua_narica,PARASITE,Baylisascariasis
+CARNIVORA,Nasua_narica,VIRUS,Rabies
+CARNIVORA,Nasua_narica,PARASITE,Trypanosomiasis - American
+CARNIVORA,Nasua_nasua,PARASITE,Baylisascariasis
+CARNIVORA,Nasua_nasua,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Nasua_nasua,BACTERIUM,Leptospirosis
+CARNIVORA,Nasua_nasua,VIRUS,Mayaro
+CARNIVORA,Nasua_nasua,PARASITE,Paragonimiasis
+CARNIVORA,Nasua_nasua,VIRUS,Rabies
+CARNIVORA,Nasua_nasua,PARASITE,Trypanosomiasis - American
+CARNIVORA,Nasua_nasua,BACTERIUM,Tuberculosis
+CARNIVORA,Nasua_nasua,VIRUS,Vaccinia and cowpox
+CARNIVORA,Neofelis_nebulosa,PARASITE,Toxoplasmosis
+CARNIVORA,Neophoca_cinerea,PARASITE,Cryptosporidiosis
+CARNIVORA,Neophoca_cinerea,PARASITE,Giardiasis
+CARNIVORA,Nyctereutes_procyonoides,BACTERIUM,Anaplasmosis
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Dipylidiasis
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Dirofilariasis
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Paragonimiasis
+CARNIVORA,Nyctereutes_procyonoides,VIRUS,Rabies
+CARNIVORA,Nyctereutes_procyonoides,VIRUS,SARS
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Sarcocystosis
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Toxocariasis
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Toxoplasmosis
+CARNIVORA,Nyctereutes_procyonoides,PARASITE,Trichinosis
+CARNIVORA,Nyctereutes_procyonoides,BACTERIUM,Tularemia
+CARNIVORA,Odobenus_rosmarus,FUNGUS,Coccidioidomycosis
+CARNIVORA,Odobenus_rosmarus,PARASITE,Trichinosis
+CARNIVORA,Otocyon_megalotis,VIRUS,Rabies
+CARNIVORA,Paguma_larvata,BACTERIUM,Campylobacteriosis
+CARNIVORA,Paguma_larvata,VIRUS,Rabies
+CARNIVORA,Paguma_larvata,VIRUS,SARS
+CARNIVORA,Paguma_larvata,BACTERIUM,Salmonellosis
+CARNIVORA,Paguma_larvata,BACTERIUM,Yersiniosis
+CARNIVORA,Panthera_leo,BACTERIUM,Anaplasmosis
+CARNIVORA,Panthera_leo,BACTERIUM,Anthrax
+CARNIVORA,Panthera_leo,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Panthera_leo,BACTERIUM,Ehrlichiosis - human monocytic
+CARNIVORA,Panthera_leo,PARASITE,Gnathostomiasis
+CARNIVORA,Panthera_leo,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Panthera_leo,PARASITE,Pentastomiasis - Armillifer
+CARNIVORA,Panthera_leo,PARASITE,Pentastomiasis - Linguatula
+CARNIVORA,Panthera_leo,VIRUS,Rabies
+CARNIVORA,Panthera_leo,PARASITE,Toxocariasis
+CARNIVORA,Panthera_leo,PARASITE,Toxoplasmosis
+CARNIVORA,Panthera_leo,PARASITE,Trypanosomiasis - African
+CARNIVORA,Panthera_leo,BACTERIUM,Tuberculosis
+CARNIVORA,Panthera_onca,BACTERIUM,Brucellosis
+CARNIVORA,Panthera_onca,PARASITE,Echinococcosis - American polycystic
+CARNIVORA,Panthera_onca,BACTERIUM,Leptospirosis
+CARNIVORA,Panthera_onca,BACTERIUM,Q-fever
+CARNIVORA,Panthera_onca,BACTERIUM,Spotted fevers - New World
+CARNIVORA,Panthera_onca,PARASITE,Toxocariasis
+CARNIVORA,Panthera_onca,PARASITE,Toxoplasmosis
+CARNIVORA,Panthera_onca,PARASITE,Tungiasis
+CARNIVORA,Panthera_pardus,PARASITE,Dirofilariasis
+CARNIVORA,Panthera_pardus,VIRUS,Influenza
+CARNIVORA,Panthera_pardus,PARASITE,Pentastomiasis - Armillifer
+CARNIVORA,Panthera_pardus,PARASITE,Pentastomiasis - Linguatula
+CARNIVORA,Panthera_pardus,PARASITE,Toxoplasmosis
+CARNIVORA,Panthera_tigris,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Panthera_tigris,FUNGUS,Histoplasmosis
+CARNIVORA,Panthera_tigris,VIRUS,Influenza
+CARNIVORA,Panthera_tigris,PARASITE,Paragonimiasis
+CARNIVORA,Panthera_tigris,PARASITE,Toxoplasmosis
+CARNIVORA,Paradoxurus_zeylonensis,VIRUS,Rabies
+CARNIVORA,Phoca_largha,PARASITE,Toxoplasmosis
+CARNIVORA,Phoca_vitulina,FUNGUS,Coccidioidomycosis
+CARNIVORA,Phoca_vitulina,PARASITE,Cryptosporidiosis
+CARNIVORA,Phoca_vitulina,PARASITE,Dioctophyma renale infection
+CARNIVORA,Phoca_vitulina,VIRUS,Eastern equine encephalitis
+CARNIVORA,Phoca_vitulina,PARASITE,Giardiasis
+CARNIVORA,Phoca_vitulina,BACTERIUM,Leptospirosis
+CARNIVORA,Phoca_vitulina,BACTERIUM,Q-fever
+CARNIVORA,Phoca_vitulina,PARASITE,Toxoplasmosis
+CARNIVORA,Phocarctos_hookeri,BACTERIUM,Brucellosis
+CARNIVORA,Phocarctos_hookeri,BACTERIUM,Leptospirosis
+CARNIVORA,Potos_flavus,PARASITE,Baylisascariasis
+CARNIVORA,Potos_flavus,FUNGUS,Blastomycosis
+CARNIVORA,Potos_flavus,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Potos_flavus,VIRUS,Mayaro
+CARNIVORA,Potos_flavus,VIRUS,Rabies
+CARNIVORA,Prionailurus_bengalensis,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Prionailurus_viverrinus,PARASITE,Toxoplasmosis
+CARNIVORA,Procyon_lotor,BACTERIUM,Anaplasmosis
+CARNIVORA,Procyon_lotor,PARASITE,Babesiosis
+CARNIVORA,Procyon_lotor,PARASITE,Baylisascariasis
+CARNIVORA,Procyon_lotor,VIRUS,Borna virus encephalitis
+CARNIVORA,Procyon_lotor,VIRUS,California encephalitis group
+CARNIVORA,Procyon_lotor,BACTERIUM,Campylobacteriosis
+CARNIVORA,Procyon_lotor,PARASITE,Dirofilariasis
+CARNIVORA,Procyon_lotor,BACTERIUM,Ehrlichiosis - human monocytic
+CARNIVORA,Procyon_lotor,FUNGUS,Histoplasmosis
+CARNIVORA,Procyon_lotor,VIRUS,Influenza
+CARNIVORA,Procyon_lotor,BACTERIUM,Japanese spotted fever
+CARNIVORA,Procyon_lotor,BACTERIUM,Leptospirosis
+CARNIVORA,Procyon_lotor,BACTERIUM,Lyme disease
+CARNIVORA,Procyon_lotor,PARASITE,Metagonimiasis
+CARNIVORA,Procyon_lotor,VIRUS,Powassan
+CARNIVORA,Procyon_lotor,BACTERIUM,Q-fever
+CARNIVORA,Procyon_lotor,VIRUS,Rabies
+CARNIVORA,Procyon_lotor,BACTERIUM,Rickettsia felis infection
+CARNIVORA,Procyon_lotor,BACTERIUM,Salmonellosis
+CARNIVORA,Procyon_lotor,BACTERIUM,Spotted fevers - Old World
+CARNIVORA,Procyon_lotor,PARASITE,Toxoplasmosis
+CARNIVORA,Procyon_lotor,PARASITE,Trypanosomiasis - American
+CARNIVORA,Procyon_lotor,BACTERIUM,Tularemia
+CARNIVORA,Procyon_lotor,BACTERIUM,Typhus - scrub
+CARNIVORA,Procyon_lotor,VIRUS,West Nile fever
+CARNIVORA,Procyon_lotor,BACTERIUM,Yersiniosis
+CARNIVORA,Procyon_pygmaeus,PARASITE,Baylisascariasis
+CARNIVORA,Procyon_pygmaeus,PARASITE,Toxoplasmosis
+CARNIVORA,Procyon_pygmaeus,BACTERIUM,Tularemia
+CARNIVORA,Puma_concolor,BACTERIUM,Anaplasmosis
+CARNIVORA,Puma_concolor,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Puma_concolor,PARASITE,Capillariasis - extraintestinal
+CARNIVORA,Puma_concolor,PARASITE,Echinococcosis - American polycystic
+CARNIVORA,Puma_concolor,BACTERIUM,Lyme disease
+CARNIVORA,Puma_concolor,BACTERIUM,Plague
+CARNIVORA,Puma_concolor,PARASITE,Toxoplasmosis
+CARNIVORA,Puma_concolor,BACTERIUM,Tularemia
+CARNIVORA,Herpailurus_yagouaroundi,PARASITE,Echinococcosis - American polycystic
+CARNIVORA,Herpailurus_yagouaroundi,PARASITE,Toxoplasmosis
+CARNIVORA,Pusa_hispida,VIRUS,Rabies
+CARNIVORA,Speothos_venaticus,PARASITE,Echinococcosis - American polycystic
+CARNIVORA,Speothos_venaticus,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Suricata_suricatta,PARASITE,Toxoplasmosis
+CARNIVORA,Suricata_suricatta,BACTERIUM,Tuberculosis
+CARNIVORA,Taxidea_taxus,VIRUS,Influenza
+CARNIVORA,Taxidea_taxus,PARASITE,Toxoplasmosis
+CARNIVORA,Panthera_uncia,PARASITE,Toxoplasmosis
+CARNIVORA,Urocyon_cinereoargenteus,BACTERIUM,Anaplasmosis
+CARNIVORA,Urocyon_cinereoargenteus,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Urocyon_cinereoargenteus,BACTERIUM,Bartonellosis - other systemic
+CARNIVORA,Urocyon_cinereoargenteus,VIRUS,Rabies
+CARNIVORA,Urocyon_cinereoargenteus,PARASITE,Trypanosomiasis - American
+CARNIVORA,Urocyon_cinereoargenteus,VIRUS,West Nile fever
+CARNIVORA,Urocyon_littoralis,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Urocyon_littoralis,BACTERIUM,Bartonellosis - other systemic
+CARNIVORA,Ursus_americanus,BACTERIUM,Anaplasmosis
+CARNIVORA,Ursus_americanus,PARASITE,Babesiosis
+CARNIVORA,Ursus_americanus,PARASITE,Baylisascariasis
+CARNIVORA,Ursus_americanus,FUNGUS,Blastomycosis
+CARNIVORA,Ursus_americanus,PARASITE,Cysticercosis
+CARNIVORA,Ursus_americanus,PARASITE,Dirofilariasis
+CARNIVORA,Ursus_americanus,BACTERIUM,Ehrlichiosis - human monocytic
+CARNIVORA,Ursus_americanus,BACTERIUM,Spotted fevers - New World
+CARNIVORA,Ursus_americanus,PARASITE,Toxoplasmosis
+CARNIVORA,Ursus_americanus,PARASITE,Trichinosis
+CARNIVORA,Ursus_americanus,BACTERIUM,Tularemia
+CARNIVORA,Ursus_americanus,VIRUS,Venezuelan equine encephalitis
+CARNIVORA,Ursus_americanus,VIRUS,West Nile fever
+CARNIVORA,Ursus_arctos,BACTERIUM,Anaplasmosis
+CARNIVORA,Ursus_arctos,PARASITE,Baylisascariasis
+CARNIVORA,Ursus_arctos,BACTERIUM,Brucellosis
+CARNIVORA,Ursus_arctos,VIRUS,Bunyaviridae infections - misc.
+CARNIVORA,Ursus_arctos,VIRUS,California encephalitis group
+CARNIVORA,Ursus_arctos,PARASITE,Cryptosporidiosis
+CARNIVORA,Ursus_arctos,PARASITE,Giardiasis
+CARNIVORA,Ursus_arctos,VIRUS,Hepatitis E
+CARNIVORA,Ursus_arctos,FUNGUS,Histoplasmosis
+CARNIVORA,Ursus_arctos,BACTERIUM,Leptospirosis
+CARNIVORA,Ursus_arctos,VIRUS,Phleboviruses - Old World
+CARNIVORA,Ursus_arctos,BACTERIUM,Ornithosis
+CARNIVORA,Ursus_arctos,BACTERIUM,Q-fever
+CARNIVORA,Ursus_arctos,PARASITE,Trichinosis
+CARNIVORA,Ursus_arctos,BACTERIUM,Tularemia
+CARNIVORA,Ursus_arctos,VIRUS,West Nile fever
+CARNIVORA,Ursus_maritimus,PARASITE,Toxoplasmosis
+CARNIVORA,Ursus_maritimus,PARASITE,Trichinosis
+CARNIVORA,Ursus_thibetanus,BACTERIUM,Tularemia
+CARNIVORA,Viverra_tangalunga,PARASITE,Filariasis - Brugia malayi
+CARNIVORA,Vormela_peregusna,BACTERIUM,Lyme disease
+CARNIVORA,Vulpes_cana,PARASITE,Toxoplasmosis
+CARNIVORA,Vulpes_corsac,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Vulpes_corsac,PARASITE,Trichinosis
+CARNIVORA,Vulpes_ferrilata,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Vulpes_lagopus,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Vulpes_lagopus,BACTERIUM,Leptospirosis
+CARNIVORA,Vulpes_lagopus,VIRUS,Rabies
+CARNIVORA,Vulpes_lagopus,PARASITE,Toxoplasmosis
+CARNIVORA,Vulpes_lagopus,PARASITE,Trichinosis
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Anaplasmosis
+CARNIVORA,Vulpes_vulpes,PARASITE,Babesiosis
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Bartonellosis - cat borne
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Bartonellosis - other systemic
+CARNIVORA,Vulpes_vulpes,VIRUS,California encephalitis group
+CARNIVORA,Vulpes_vulpes,PARASITE,Capillariasis - extraintestinal
+CARNIVORA,Vulpes_vulpes,PARASITE,Cryptosporidiosis
+CARNIVORA,Vulpes_vulpes,PARASITE,Diphyllobothriasis
+CARNIVORA,Vulpes_vulpes,PARASITE,Dipylidiasis
+CARNIVORA,Vulpes_vulpes,PARASITE,Dirofilariasis
+CARNIVORA,Vulpes_vulpes,PARASITE,Echinococcosis - multilocular
+CARNIVORA,Vulpes_vulpes,PARASITE,Echinococcosis - unilocular
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Ehrlichiosis - human monocytic
+CARNIVORA,Vulpes_vulpes,PARASITE,Giardiasis
+CARNIVORA,Vulpes_vulpes,VIRUS,Hantaviruses - Old World
+CARNIVORA,Vulpes_vulpes,PARASITE,Hymenolepis diminuta infection
+CARNIVORA,Vulpes_vulpes,PARASITE,Hymenolepis nana infection
+CARNIVORA,Vulpes_vulpes,VIRUS,Influenza
+CARNIVORA,Vulpes_vulpes,PARASITE,Leishmaniasis - cutaneous
+CARNIVORA,Vulpes_vulpes,PARASITE,Leishmaniasis - visceral
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Leptospirosis
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Lyme disease
+CARNIVORA,Vulpes_vulpes,PARASITE,Metagonimiasis
+CARNIVORA,Vulpes_vulpes,PARASITE,Acanthocephalan infections
+CARNIVORA,Vulpes_vulpes,PARASITE,Opisthorchiasis
+CARNIVORA,Vulpes_vulpes,PARASITE,Paragonimiasis
+CARNIVORA,Vulpes_vulpes,VIRUS,Powassan
+CARNIVORA,Vulpes_vulpes,VIRUS,Rabies
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Rickettsia felis infection
+CARNIVORA,Vulpes_vulpes,PARASITE,Sarcocystosis
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Spotted fevers - Old World
+CARNIVORA,Vulpes_vulpes,PARASITE,Taeniasis
+CARNIVORA,Vulpes_vulpes,PARASITE,Thelaziasis
+CARNIVORA,Vulpes_vulpes,VIRUS,Tick-borne encephalitis
+CARNIVORA,Vulpes_vulpes,PARASITE,Toxocariasis
+CARNIVORA,Vulpes_vulpes,PARASITE,Toxoplasmosis
+CARNIVORA,Vulpes_vulpes,PARASITE,Trichinosis
+CARNIVORA,Vulpes_vulpes,PARASITE,Trypanosomiasis - American
+CARNIVORA,Vulpes_vulpes,BACTERIUM,Tularemia
+CARNIVORA,Vulpes_vulpes,VIRUS,West Nile fever
+CARNIVORA,Zalophus_californianus,FUNGUS,Coccidioidomycosis
+CARNIVORA,Zalophus_californianus,PARASITE,Cryptosporidiosis
+CARNIVORA,Zalophus_californianus,PARASITE,Giardiasis
+CARNIVORA,Zalophus_californianus,BACTERIUM,Leptospirosis
+CARNIVORA,Zalophus_californianus,PARASITE,Toxoplasmosis
+CHIROPTERA,Anoura_caudifer,VIRUS,Hantavirus pulmonary syndrome
+CHIROPTERA,Artibeus_jamaicensis,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Artibeus_jamaicensis,VIRUS,Dengue
+CHIROPTERA,Artibeus_jamaicensis,VIRUS,Rabies
+CHIROPTERA,Artibeus_lituratus,VIRUS,Dengue
+CHIROPTERA,Artibeus_lituratus,VIRUS,Rabies
+CHIROPTERA,Aselliscus_stoliczkanus,VIRUS,Rabies
+CHIROPTERA,Balantiopteryx_plicata,PARASITE,Balantidiasis
+CHIROPTERA,Brachyphylla_cavernarum,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Carollia_perspicillata,FUNGUS,Coccidioidomycosis
+CHIROPTERA,Carollia_perspicillata,VIRUS,Rabies
+CHIROPTERA,Coleura_afra,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Cynopterus_brachyotis,VIRUS,Nipah virus infection
+CHIROPTERA,Cynopterus_sphinx,VIRUS,Nipah virus infection
+CHIROPTERA,Cynopterus_sphinx,PARASITE,Toxoplasmosis
+CHIROPTERA,Desmodus_rotundus,FUNGUS,Histoplasmosis
+CHIROPTERA,Desmodus_rotundus,BACTERIUM,Leptospirosis
+CHIROPTERA,Desmodus_rotundus,VIRUS,Rabies
+CHIROPTERA,Diphylla_ecaudata,VIRUS,Hantavirus pulmonary syndrome
+CHIROPTERA,Diphylla_ecaudata,VIRUS,Rabies
+CHIROPTERA,Eidolon_dupreanum,VIRUS,Hendra virus disease
+CHIROPTERA,Eidolon_dupreanum,VIRUS,Nipah virus infection
+CHIROPTERA,Eidolon_dupreanum,VIRUS,Rabies
+CHIROPTERA,Eidolon_helvum,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Eidolon_helvum,VIRUS,Ebola
+CHIROPTERA,Eidolon_helvum,VIRUS,Hendra virus disease
+CHIROPTERA,Eidolon_helvum,BACTERIUM,Leptospirosis
+CHIROPTERA,Eidolon_helvum,VIRUS,Nipah virus infection
+CHIROPTERA,Eidolon_helvum,VIRUS,Rabies
+CHIROPTERA,Eonycteris_spelaea,VIRUS,Nipah virus infection
+CHIROPTERA,Eonycteris_spelaea,VIRUS,Rabies
+CHIROPTERA,Epomophorus_gambianus,VIRUS,Ebola
+CHIROPTERA,Epomophorus_gambianus,VIRUS,Rabies
+CHIROPTERA,Epomophorus_wahlbergi,VIRUS,Rabies
+CHIROPTERA,Epomops_buettikoferi,VIRUS,Rabies
+CHIROPTERA,Epomops_franqueti,VIRUS,Ebola
+CHIROPTERA,Eptesicus_furinalis,VIRUS,Rabies
+CHIROPTERA,Eptesicus_fuscus,VIRUS,Rabies
+CHIROPTERA,Eptesicus_fuscus,BACTERIUM,Relapsing fever
+CHIROPTERA,Eptesicus_fuscus,VIRUS,West Nile fever
+CHIROPTERA,Eptesicus_serotinus,VIRUS,Rabies
+CHIROPTERA,Eumops_auripendulus,VIRUS,Rabies
+CHIROPTERA,Eumops_bonariensis,FUNGUS,Histoplasmosis
+CHIROPTERA,Eumops_glaucinus,FUNGUS,Histoplasmosis
+CHIROPTERA,Eumops_perotis,VIRUS,Rabies
+CHIROPTERA,Glossophaga_soricina,VIRUS,Dengue
+CHIROPTERA,Glossophaga_soricina,VIRUS,Rabies
+CHIROPTERA,Hipposideros_armiger,VIRUS,Nipah virus infection
+CHIROPTERA,Hipposideros_armiger,VIRUS,Rabies
+CHIROPTERA,Hipposideros_caffer,VIRUS,Rift Valley fever
+CHIROPTERA,Macronycteris_commersonii,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Macronycteris_commersonii,VIRUS,Rabies
+CHIROPTERA,Hipposideros_fuliginosus,VIRUS,Rabies
+CHIROPTERA,Hipposideros_larvatus,VIRUS,Nipah virus infection
+CHIROPTERA,Hipposideros_larvatus,VIRUS,Rabies
+CHIROPTERA,Hipposideros_lylei,VIRUS,Nipah virus infection
+CHIROPTERA,Hipposideros_pomona,VIRUS,Nipah virus infection
+CHIROPTERA,Hipposideros_ruber,VIRUS,Hepatitis B
+CHIROPTERA,Histiotus_macrotus,VIRUS,Rabies
+CHIROPTERA,Histiotus_velatus,VIRUS,Rabies
+CHIROPTERA,Hypsignathus_monstrosus,VIRUS,Ebola
+CHIROPTERA,Hypsignathus_monstrosus,VIRUS,Marburg virus disease
+CHIROPTERA,Lasionycteris_noctivagans,VIRUS,Rabies
+CHIROPTERA,Lasiurus_blossevillii,VIRUS,Rabies
+CHIROPTERA,Lasiurus_borealis,VIRUS,Rabies
+CHIROPTERA,Lasiurus_seminolus,VIRUS,Rabies
+CHIROPTERA,Lyroderma_lyra,PARASITE,Toxoplasmosis
+CHIROPTERA,Epomophorus_pusillus,VIRUS,Ebola
+CHIROPTERA,Epomophorus_pusillus,VIRUS,Rift Valley fever
+CHIROPTERA,Miniopterus_inflatus,VIRUS,Marburg virus disease
+CHIROPTERA,Miniopterus_natalensis,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Miniopterus_pusillus,VIRUS,Rift Valley fever
+CHIROPTERA,Miniopterus_schreibersii,VIRUS,Ebola
+CHIROPTERA,Miniopterus_schreibersii,VIRUS,Rift Valley fever
+CHIROPTERA,Miniopterus_schreibersii,VIRUS,Japanese encephalitis
+CHIROPTERA,Miniopterus_schreibersii,VIRUS,Rabies
+CHIROPTERA,Molossops_neglectus,VIRUS,Rabies
+CHIROPTERA,Molossus_molossus,FUNGUS,Histoplasmosis
+CHIROPTERA,Molossus_molossus,VIRUS,Rabies
+CHIROPTERA,Molossus_rufus,FUNGUS,Histoplasmosis
+CHIROPTERA,Molossus_rufus,VIRUS,Rabies
+CHIROPTERA,Monophyllus_redmani,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Mops_condylurus,VIRUS,Ebola
+CHIROPTERA,Myonycteris_torquata,VIRUS,Ebola
+CHIROPTERA,Myotis_capaccinii,VIRUS,Rabies
+CHIROPTERA,Myotis_chiloensis,VIRUS,Rabies
+CHIROPTERA,Myotis_dasycneme,VIRUS,Rabies
+CHIROPTERA,Myotis_daubentonii,VIRUS,Rabies
+CHIROPTERA,Myotis_keenii,VIRUS,Rabies
+CHIROPTERA,Myotis_lucifugus,PARASITE,Cryptosporidiosis
+CHIROPTERA,Myotis_lucifugus,VIRUS,Rabies
+CHIROPTERA,Myotis_lucifugus,VIRUS,West Nile fever
+CHIROPTERA,Myotis_myotis,VIRUS,Rabies
+CHIROPTERA,Myotis_myotis,BACTERIUM,Yersiniosis
+CHIROPTERA,Myotis_nattereri,VIRUS,Rabies
+CHIROPTERA,Myotis_nigricans,VIRUS,Rabies
+CHIROPTERA,Myotis_pilosus,VIRUS,Nipah virus infection
+CHIROPTERA,Myotis_riparius,VIRUS,Rabies
+CHIROPTERA,Myotis_velifer,VIRUS,Rabies
+CHIROPTERA,Nyctalus_noctula,FUNGUS,Histoplasmosis
+CHIROPTERA,Nyctalus_noctula,VIRUS,Influenza
+CHIROPTERA,Nyctalus_noctula,VIRUS,Rabies
+CHIROPTERA,Nycteris_thebaica,VIRUS,Rabies
+CHIROPTERA,Nycticeius_humeralis,VIRUS,Rabies
+CHIROPTERA,Nyctinomops_laticaudatus,VIRUS,Rabies
+CHIROPTERA,Nyctinomops_macrotis,FUNGUS,Histoplasmosis
+CHIROPTERA,Nyctinomops_macrotis,VIRUS,Rabies
+CHIROPTERA,Pipistrellus_javanicus,PARASITE,Toxoplasmosis
+CHIROPTERA,Pipistrellus_pipistrellus,VIRUS,Rabies
+CHIROPTERA,Pipistrellus_pipistrellus,PARASITE,Toxoplasmosis
+CHIROPTERA,Pipistrellus_pipistrellus,BACTERIUM,Yersiniosis
+CHIROPTERA,Pipistrellus_pygmaeus,PARASITE,Toxoplasmosis
+CHIROPTERA,Perimyotis_subflavus,VIRUS,Rabies
+CHIROPTERA,Pteropus_alecto,VIRUS,Hendra virus disease
+CHIROPTERA,Pteropus_alecto,VIRUS,Rabies
+CHIROPTERA,Pteropus_conspicillatus,PARASITE,Toxoplasmosis
+CHIROPTERA,Pteropus_hypomelanus,VIRUS,Nipah virus infection
+CHIROPTERA,Pteropus_hypomelanus,VIRUS,Rabies
+CHIROPTERA,Pteropus_lylei,VIRUS,Nipah virus infection
+CHIROPTERA,Pteropus_lylei,VIRUS,Rabies
+CHIROPTERA,Pteropus_neohibernicus,VIRUS,Hendra virus disease
+CHIROPTERA,Pteropus_poliocephalus,PARASITE,Angiostrongyliasis
+CHIROPTERA,Pteropus_poliocephalus,VIRUS,Rabies
+CHIROPTERA,Pteropus_rufus,VIRUS,Hendra virus disease
+CHIROPTERA,Pteropus_rufus,VIRUS,Nipah virus infection
+CHIROPTERA,Pteropus_scapulatus,VIRUS,Rabies
+CHIROPTERA,Pteropus_scapulatus,PARASITE,Toxoplasmosis
+CHIROPTERA,Pteropus_vampyrus,VIRUS,Nipah virus infection
+CHIROPTERA,Rhinolophus_affinis,VIRUS,Nipah virus infection
+CHIROPTERA,Rhinolophus_alcyone,VIRUS,Hepatitis B
+CHIROPTERA,Rhinolophus_eloquens,VIRUS,Marburg virus disease
+CHIROPTERA,Rhinolophus_ferrumequinum,VIRUS,Rabies
+CHIROPTERA,Rhinolophus_macrotis,VIRUS,Rabies
+CHIROPTERA,Rhinolophus_macrotis,VIRUS,Japanese encephalitis
+CHIROPTERA,Rhinolophus_pusillus,VIRUS,Rabies
+CHIROPTERA,Rhinolophus_sinicus,VIRUS,Nipah virus infection
+CHIROPTERA,Rousettus_aegyptiacus,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Rousettus_aegyptiacus,VIRUS,Ebola
+CHIROPTERA,Rousettus_aegyptiacus,VIRUS,Marburg virus disease
+CHIROPTERA,Rousettus_aegyptiacus,FUNGUS,Microsporidiosis
+CHIROPTERA,Rousettus_aegyptiacus,VIRUS,Rabies
+CHIROPTERA,Rousettus_aegyptiacus,BACTERIUM,Yersiniosis
+CHIROPTERA,Rousettus_amplexicaudatus,VIRUS,Ebola
+CHIROPTERA,Rousettus_amplexicaudatus,VIRUS,Rabies
+CHIROPTERA,Sturnira_lilium,VIRUS,Rabies
+CHIROPTERA,Tadarida_brasiliensis,FUNGUS,Histoplasmosis
+CHIROPTERA,Tadarida_brasiliensis,VIRUS,Rabies
+CHIROPTERA,Tadarida_teniotis,VIRUS,Rabies
+CHIROPTERA,Taphozous_melanopogon,VIRUS,Rabies
+CHIROPTERA,Taphozous_perforatus,VIRUS,MERS Coronavirus infection
+CHIROPTERA,Taphozous_theobaldi,VIRUS,Rabies
+CHIROPTERA,Triaenops_persicus,BACTERIUM,Bartonellosis - other systemic
+CHIROPTERA,Uroderma_bilobatum,VIRUS,Hepatitis B
+CHIROPTERA,Vespertilio_murinus,VIRUS,Rabies
+CHIROPTERA,Rousettus_leschenaultii,VIRUS,Nipah virus infection
+CHIROPTERA,Saccolaimus_flaviventris,VIRUS,Rabies
+CINGULATA,Chaetophractus_vellerosus,PARASITE,Trypanosomiasis - American
+CINGULATA,Chaetophractus_villosus,BACTERIUM,Brucellosis
+CINGULATA,Chaetophractus_villosus,BACTERIUM,Leptospirosis
+CINGULATA,Dasypus_novemcinctus,FUNGUS,Coccidioidomycosis
+CINGULATA,Dasypus_novemcinctus,PARASITE,Leishmaniasis - cutaneous
+CINGULATA,Dasypus_novemcinctus,BACTERIUM,Leprosy
+CINGULATA,Dasypus_novemcinctus,BACTERIUM,Leptospirosis
+CINGULATA,Dasypus_novemcinctus,VIRUS,Mayaro
+CINGULATA,Dasypus_novemcinctus,FUNGUS,Paracoccidioidomycosis
+CINGULATA,Dasypus_novemcinctus,VIRUS,Rabies
+CINGULATA,Dasypus_novemcinctus,PARASITE,Toxoplasmosis
+CINGULATA,Dasypus_novemcinctus,PARASITE,Trypanosomiasis - American
+CINGULATA,Euphractus_sexcinctus,BACTERIUM,Leprosy
+CINGULATA,Euphractus_sexcinctus,BACTERIUM,Leptospirosis
+CINGULATA,Euphractus_sexcinctus,PARASITE,Toxoplasmosis
+CINGULATA,Euphractus_sexcinctus,PARASITE,Trypanosomiasis - American
+CINGULATA,Tolypeutes_matacus,PARASITE,Trypanosomiasis - American
+DASYUROMORPHIA,Dasyurus_maculatus,PARASITE,Toxoplasmosis
+DIDELPHIMORPHIA,Caluromys_philander,VIRUS,Mayaro
+DIDELPHIMORPHIA,Didelphis_albiventris,PARASITE,Leishmaniasis - cutaneous
+DIDELPHIMORPHIA,Didelphis_albiventris,PARASITE,Leishmaniasis - mucocutaneous
+DIDELPHIMORPHIA,Didelphis_albiventris,PARASITE,Leishmaniasis - visceral
+DIDELPHIMORPHIA,Didelphis_albiventris,BACTERIUM,Leptospirosis
+DIDELPHIMORPHIA,Didelphis_albiventris,VIRUS,Mayaro
+DIDELPHIMORPHIA,Didelphis_albiventris,PARASITE,Toxoplasmosis
+DIDELPHIMORPHIA,Didelphis_albiventris,PARASITE,Trypanosomiasis - American
+DIDELPHIMORPHIA,Didelphis_aurita,VIRUS,Hantavirus pulmonary syndrome
+DIDELPHIMORPHIA,Didelphis_aurita,PARASITE,Leishmaniasis - visceral
+DIDELPHIMORPHIA,Didelphis_aurita,PARASITE,Toxoplasmosis
+DIDELPHIMORPHIA,Didelphis_marsupialis,PARASITE,Leishmaniasis - cutaneous
+DIDELPHIMORPHIA,Didelphis_marsupialis,PARASITE,Leishmaniasis - mucocutaneous
+DIDELPHIMORPHIA,Didelphis_marsupialis,PARASITE,Leishmaniasis - visceral
+DIDELPHIMORPHIA,Didelphis_marsupialis,VIRUS,Mayaro
+DIDELPHIMORPHIA,Didelphis_marsupialis,VIRUS,Phleboviruses - New World
+DIDELPHIMORPHIA,Didelphis_marsupialis,BACTERIUM,Rickettsia felis infection
+DIDELPHIMORPHIA,Didelphis_marsupialis,VIRUS,St. Louis encephalitis
+DIDELPHIMORPHIA,Didelphis_marsupialis,PARASITE,Toxoplasmosis
+DIDELPHIMORPHIA,Didelphis_marsupialis,PARASITE,Trypanosomiasis - American
+DIDELPHIMORPHIA,Didelphis_marsupialis,VIRUS,Venezuelan equine encephalitis
+DIDELPHIMORPHIA,Didelphis_virginiana,BACTERIUM,Anaplasmosis
+DIDELPHIMORPHIA,Didelphis_virginiana,BACTERIUM,Rickettsia felis infection
+DIDELPHIMORPHIA,Didelphis_virginiana,PARASITE,Toxoplasmosis
+DIDELPHIMORPHIA,Didelphis_virginiana,PARASITE,Trypanosomiasis - American
+DIDELPHIMORPHIA,Didelphis_virginiana,BACTERIUM,Typhus - endemic
+DIDELPHIMORPHIA,Didelphis_virginiana,VIRUS,West Nile fever
+DIDELPHIMORPHIA,Marmosa_murina,PARASITE,Leishmaniasis - cutaneous
+DIDELPHIMORPHIA,Metachirus_nudicaudatus,VIRUS,Dengue
+DIDELPHIMORPHIA,Metachirus_nudicaudatus,PARASITE,Leishmaniasis - cutaneous
+DIDELPHIMORPHIA,Marmosa_paraguayana,VIRUS,Hantavirus pulmonary syndrome
+DIDELPHIMORPHIA,Marmosa_paraguayana,PARASITE,Leishmaniasis - cutaneous
+DIDELPHIMORPHIA,Philander_opossum,VIRUS,Chandipura and Vesicular stomatitis viruses
+DIDELPHIMORPHIA,Philander_opossum,PARASITE,Leishmaniasis - cutaneous
+DIDELPHIMORPHIA,Philander_opossum,VIRUS,Mayaro
+DIPROTODONTIA,Aepyprymnus_rufescens,PARASITE,Angiostrongyliasis
+DIPROTODONTIA,Notamacropus_agilis,VIRUS,Ross River disease
+DIPROTODONTIA,Notamacropus_dorsalis,PARASITE,Echinococcosis - unilocular
+DIPROTODONTIA,Notamacropus_eugenii,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Macropus_fuliginosus,PARASITE,Cryptosporidiosis
+DIPROTODONTIA,Macropus_fuliginosus,VIRUS,Ross River disease
+DIPROTODONTIA,Macropus_fuliginosus,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Macropus_giganteus,PARASITE,Cryptosporidiosis
+DIPROTODONTIA,Macropus_giganteus,PARASITE,Echinococcosis - unilocular
+DIPROTODONTIA,Macropus_giganteus,PARASITE,Fascioliasis
+DIPROTODONTIA,Macropus_giganteus,BACTERIUM,Leptospirosis
+DIPROTODONTIA,Osphranter_robustus,PARASITE,Echinococcosis - unilocular
+DIPROTODONTIA,Osphranter_robustus,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Notamacropus_rufogriseus,PARASITE,Angiostrongyliasis
+DIPROTODONTIA,Notamacropus_rufogriseus,PARASITE,Fascioliasis
+DIPROTODONTIA,Notamacropus_rufogriseus,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Osphranter_rufus,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Petrogale_penicillata,PARASITE,Cryptosporidiosis
+DIPROTODONTIA,Petrogale_penicillata,PARASITE,Echinococcosis - unilocular
+DIPROTODONTIA,Petrogale_penicillata,PARASITE,Giardiasis
+DIPROTODONTIA,Phascolarctos_cinereus,FUNGUS,Coccidioidomycosis
+DIPROTODONTIA,Pseudocheirus_peregrinus,BACTERIUM,Tularemia
+DIPROTODONTIA,Thylogale_brunii,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Trichosurus_vulpecula,PARASITE,Cryptosporidiosis
+DIPROTODONTIA,Trichosurus_vulpecula,PARASITE,Fascioliasis
+DIPROTODONTIA,Trichosurus_vulpecula,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Trichosurus_vulpecula,BACTERIUM,Tuberculosis
+DIPROTODONTIA,Vombatus_ursinus,PARASITE,Fascioliasis
+DIPROTODONTIA,Vombatus_ursinus,BACTERIUM,Leptospirosis
+DIPROTODONTIA,Vombatus_ursinus,PARASITE,Toxoplasmosis
+DIPROTODONTIA,Wallabia_bicolor,PARASITE,Fascioliasis
+EULIPOTYPHLA,Atelerix_albiventris,FUNGUS,Histoplasmosis
+EULIPOTYPHLA,Atelerix_algirus,PARASITE,Leishmaniasis - cutaneous
+EULIPOTYPHLA,Atelerix_algirus,BACTERIUM,Relapsing fever
+EULIPOTYPHLA,Atelerix_algirus,BACTERIUM,Rickettsia felis infection
+EULIPOTYPHLA,Atelerix_algirus,BACTERIUM,Spotted fevers - Old World
+EULIPOTYPHLA,Erinaceus_concolor,PARASITE,Leishmaniasis - cutaneous
+EULIPOTYPHLA,Erinaceus_europaeus,BACTERIUM,Anaplasmosis
+EULIPOTYPHLA,Erinaceus_europaeus,PARASITE,Cryptosporidiosis
+EULIPOTYPHLA,Erinaceus_europaeus,BACTERIUM,Leptospirosis
+EULIPOTYPHLA,Erinaceus_europaeus,BACTERIUM,Lyme disease
+EULIPOTYPHLA,Erinaceus_europaeus,BACTERIUM,Q-fever
+EULIPOTYPHLA,Erinaceus_europaeus,BACTERIUM,Rickettsia felis infection
+EULIPOTYPHLA,Erinaceus_europaeus,BACTERIUM,Spotted fevers - Old World
+EULIPOTYPHLA,Erinaceus_roumanicus,BACTERIUM,Anaplasmosis
+EULIPOTYPHLA,Erinaceus_roumanicus,BACTERIUM,Ehrlichiosis - human monocytic
+EULIPOTYPHLA,Paraechinus_aethiopicus,PARASITE,Leishmaniasis - cutaneous
+EULIPOTYPHLA,Paraechinus_aethiopicus,BACTERIUM,Rickettsia felis infection
+EULIPOTYPHLA,Paraechinus_aethiopicus,BACTERIUM,Spotted fevers - Old World
+HYRACOIDEA,Heterohyrax_brucei,PARASITE,Leishmaniasis - cutaneous
+HYRACOIDEA,Procavia_capensis,PARASITE,Leishmaniasis - cutaneous
+LAGOMORPHA,Lepus_americanus,VIRUS,Powassan
+LAGOMORPHA,Lepus_castroviejoi,PARASITE,Leishmaniasis - visceral
+LAGOMORPHA,Lepus_europaeus,BACTERIUM,Brucellosis
+LAGOMORPHA,Lepus_europaeus,BACTERIUM,Campylobacteriosis
+LAGOMORPHA,Lepus_europaeus,VIRUS,Crimean-Congo hemorrhagic fever
+LAGOMORPHA,Lepus_europaeus,PARASITE,Echinococcosis - multilocular
+LAGOMORPHA,Lepus_europaeus,VIRUS,Hantaviruses - Old World
+LAGOMORPHA,Lepus_europaeus,PARASITE,Leishmaniasis - visceral
+LAGOMORPHA,Lepus_europaeus,BACTERIUM,Q-fever
+LAGOMORPHA,Lepus_europaeus,PARASITE,Thelaziasis
+LAGOMORPHA,Lepus_europaeus,VIRUS,Thogoto group
+LAGOMORPHA,Lepus_europaeus,PARASITE,Toxoplasmosis
+LAGOMORPHA,Lepus_europaeus,BACTERIUM,Tularemia
+LAGOMORPHA,Lepus_granatensis,PARASITE,Leishmaniasis - visceral
+LAGOMORPHA,Lepus_granatensis,PARASITE,Toxoplasmosis
+LAGOMORPHA,Lepus_oiostolus,PARASITE,Echinococcosis - multilocular
+LAGOMORPHA,Lepus_timidus,BACTERIUM,Tularemia
+LAGOMORPHA,Ochotona_curzoniae,PARASITE,Echinococcosis - multilocular
+LAGOMORPHA,Ochotona_curzoniae,PARASITE,Hymenolepis nana infection
+LAGOMORPHA,Ochotona_curzoniae,BACTERIUM,Yersiniosis
+LAGOMORPHA,Ochotona_rufescens,PARASITE,Echinococcosis - multilocular
+LAGOMORPHA,Oryctolagus_cuniculus,BACTERIUM,Bartonellosis - other systemic
+LAGOMORPHA,Oryctolagus_cuniculus,PARASITE,Baylisascariasis
+LAGOMORPHA,Oryctolagus_cuniculus,VIRUS,Coltiviruses - Old World
+LAGOMORPHA,Oryctolagus_cuniculus,PARASITE,Fascioliasis
+LAGOMORPHA,Oryctolagus_cuniculus,VIRUS,Hepatitis E
+LAGOMORPHA,Oryctolagus_cuniculus,VIRUS,Influenza
+LAGOMORPHA,Oryctolagus_cuniculus,PARASITE,Leishmaniasis - visceral
+LAGOMORPHA,Oryctolagus_cuniculus,BACTERIUM,Q-fever
+LAGOMORPHA,Oryctolagus_cuniculus,PARASITE,Toxoplasmosis
+LAGOMORPHA,Oryctolagus_cuniculus,PARASITE,Trypanosomiasis - American
+LAGOMORPHA,Oryctolagus_cuniculus,VIRUS,West Nile fever
+LAGOMORPHA,Sylvilagus_floridanus,PARASITE,Babesiosis
+LAGOMORPHA,Sylvilagus_floridanus,PARASITE,Gongylonemiasis
+LAGOMORPHA,Sylvilagus_floridanus,BACTERIUM,Lyme disease
+LAGOMORPHA,Sylvilagus_floridanus,FUNGUS,Microsporidiosis
+LAGOMORPHA,Sylvilagus_floridanus,PARASITE,Pentastomiasis - Linguatula
+LAGOMORPHA,Sylvilagus_floridanus,PARASITE,Toxoplasmosis
+LAGOMORPHA,Sylvilagus_floridanus,BACTERIUM,Tularemia
+LAGOMORPHA,Sylvilagus_palustris,BACTERIUM,Tularemia
+MONOTREMATA,Ornithorhynchus_anatinus,BACTERIUM,Leptospirosis
+PERAMELEMORPHIA,Perameles_bougainville,BACTERIUM,Q-fever
+PERISSODACTYLA,Ceratotherium_simum,VIRUS,Rift Valley fever
+PERISSODACTYLA,Diceros_bicornis,FUNGUS,Coccidioidomycosis
+PERISSODACTYLA,Diceros_bicornis,VIRUS,Crimean-Congo hemorrhagic fever
+PERISSODACTYLA,Diceros_bicornis,VIRUS,Rift Valley fever
+PERISSODACTYLA,Diceros_bicornis,BACTERIUM,Tuberculosis
+PERISSODACTYLA,Equus_grevyi,BACTERIUM,Anthrax
+PERISSODACTYLA,Rhinoceros_unicornis,BACTERIUM,Anthrax
+PERISSODACTYLA,Tapirus_terrestris,PARASITE,Toxoplasmosis
+PERISSODACTYLA,Equus_quagga,BACTERIUM,Anthrax
+PILOSA,Bradypus_tridactylus,PARASITE,Leishmaniasis - cutaneous
+PILOSA,Bradypus_tridactylus,VIRUS,Mayaro
+PILOSA,Bradypus_tridactylus,BACTERIUM,Q-fever
+PILOSA,Bradypus_tridactylus,VIRUS,St. Louis encephalitis
+PILOSA,Bradypus_tridactylus,PARASITE,Toxoplasmosis
+PILOSA,Bradypus_tridactylus,VIRUS,Yellow fever
+PILOSA,Bradypus_variegatus,PARASITE,Leishmaniasis - mucocutaneous
+PILOSA,Bradypus_variegatus,VIRUS,Phleboviruses - New World
+PILOSA,Choloepus_didactylus,PARASITE,Leishmaniasis - cutaneous
+PILOSA,Choloepus_didactylus,PARASITE,Leishmaniasis - mucocutaneous
+PILOSA,Choloepus_didactylus,VIRUS,Mayaro
+PILOSA,Choloepus_didactylus,VIRUS,Yellow fever
+PILOSA,Choloepus_hoffmanni,PARASITE,Leishmaniasis - cutaneous
+PILOSA,Choloepus_hoffmanni,PARASITE,Leishmaniasis - mucocutaneous
+PILOSA,Choloepus_hoffmanni,VIRUS,Phleboviruses - New World
+PILOSA,Myrmecophaga_tridactyla,VIRUS,Influenza
+PILOSA,Myrmecophaga_tridactyla,FUNGUS,Paracoccidioidomycosis
+PILOSA,Myrmecophaga_tridactyla,PARASITE,Tungiasis
+PILOSA,Tamandua_tetradactyla,PARASITE,Giardiasis
+PILOSA,Tamandua_tetradactyla,PARASITE,Leishmaniasis - cutaneous
+PILOSA,Tamandua_tetradactyla,PARASITE,Leishmaniasis - visceral
+PILOSA,Tamandua_tetradactyla,VIRUS,Mayaro
+PILOSA,Tamandua_tetradactyla,VIRUS,St. Louis encephalitis
+PILOSA,Tamandua_tetradactyla,PARASITE,Trypanosomiasis - American
+PILOSA,Tamandua_tetradactyla,VIRUS,Yellow fever
+PRIMATES,Alouatta_belzebul,PARASITE,Toxoplasmosis
+PRIMATES,Alouatta_caraya,PARASITE,Giardiasis
+PRIMATES,Alouatta_caraya,BACTERIUM,Leptospirosis
+PRIMATES,Alouatta_caraya,VIRUS,St. Louis encephalitis
+PRIMATES,Alouatta_caraya,PARASITE,Toxoplasmosis
+PRIMATES,Alouatta_caraya,VIRUS,Vaccinia and cowpox
+PRIMATES,Alouatta_caraya,VIRUS,Yellow fever
+PRIMATES,Alouatta_guariba,PARASITE,Leishmaniasis - visceral
+PRIMATES,Alouatta_palliata,PARASITE,Ascariasis
+PRIMATES,Alouatta_palliata,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Alouatta_palliata,PARASITE,Trypanosomiasis - American
+PRIMATES,Alouatta_pigra,PARASITE,Giardiasis
+PRIMATES,Alouatta_pigra,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Alouatta_pigra,PARASITE,Trypanosomiasis - American
+PRIMATES,Alouatta_seniculus,VIRUS,Mayaro
+PRIMATES,Alouatta_seniculus,VIRUS,Yellow fever
+PRIMATES,Aotus_nigriceps,PARASITE,Leishmaniasis - visceral
+PRIMATES,Aotus_trivirgatus,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Aotus_trivirgatus,PARASITE,Leishmaniasis - mucocutaneous
+PRIMATES,Ateles_geoffroyi,PARASITE,Echinococcosis - multilocular
+PRIMATES,Ateles_paniscus,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Brachyteles_arachnoides,PARASITE,Toxoplasmosis
+PRIMATES,Callicebus_nigrifrons,PARASITE,Leishmaniasis - visceral
+PRIMATES,Plecturocebus_oenanthe,PARASITE,Bertiella and Inermicapsifer
+PRIMATES,Callithrix_jacchus,PARASITE,Gongylonemiasis
+PRIMATES,Callithrix_jacchus,VIRUS,Rabies
+PRIMATES,Callithrix_jacchus,BACTERIUM,Tularemia
+PRIMATES,Callithrix_penicillata,PARASITE,Toxoplasmosis
+PRIMATES,Sapajus_apella,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Sapajus_apella,BACTERIUM,Leptospirosis
+PRIMATES,Sapajus_apella,VIRUS,Rabies
+PRIMATES,Sapajus_apella,PARASITE,Toxoplasmosis
+PRIMATES,Sapajus_apella,BACTERIUM,Tuberculosis
+PRIMATES,Sapajus_apella,VIRUS,Vaccinia and cowpox
+PRIMATES,Sapajus_apella,VIRUS,Yellow fever
+PRIMATES,Cebus_capucinus,BACTERIUM,Tuberculosis
+PRIMATES,Sapajus_libidinosus,PARASITE,Toxoplasmosis
+PRIMATES,Sapajus_nigritus,VIRUS,Rabies
+PRIMATES,Sapajus_xanthosternos,PARASITE,Leishmaniasis - visceral
+PRIMATES,Cercocebus_atys,VIRUS,Monkeypox
+PRIMATES,Cercocebus_atys,BACTERIUM,Tuberculosis
+PRIMATES,Cercocebus_atys,VIRUS,West Nile fever
+PRIMATES,Cercocebus_torquatus,PARASITE,Trypanosomiasis - African
+PRIMATES,Cercopithecus_ascanius,PARASITE,Cryptosporidiosis
+PRIMATES,Cercopithecus_ascanius,PARASITE,Giardiasis
+PRIMATES,Cercopithecus_cephus,BACTERIUM,Bartonellosis - other systemic
+PRIMATES,Cercopithecus_cephus,BACTERIUM,Rickettsia felis infection
+PRIMATES,Cercopithecus_diana,PARASITE,Echinococcosis - multilocular
+PRIMATES,Allochrocebus_lhoesti,PARASITE,Oesophagostomiasis
+PRIMATES,Cercopithecus_mitis,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Cercopithecus_neglectus,PARASITE,Balantidiasis
+PRIMATES,Cercopithecus_neglectus,VIRUS,Herpes B infection
+PRIMATES,Cercopithecus_nictitans,PARASITE,Trypanosomiasis - African
+PRIMATES,Chiropotes_chiropotes,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Chlorocebus_aethiops,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Chlorocebus_aethiops,BACTERIUM,Tularemia
+PRIMATES,Chlorocebus_aethiops,BACTERIUM,Yersiniosis
+PRIMATES,Chlorocebus_pygerythrus,BACTERIUM,Tuberculosis
+PRIMATES,Chlorocebus_sabaeus,PARASITE,Toxoplasmosis
+PRIMATES,Chlorocebus_sabaeus,BACTERIUM,Yersiniosis
+PRIMATES,Colobus_guereza,BACTERIUM,Listeriosis
+PRIMATES,Erythrocebus_patas,VIRUS,Crimean-Congo hemorrhagic fever
+PRIMATES,Erythrocebus_patas,BACTERIUM,Tularemia
+PRIMATES,Erythrocebus_patas,VIRUS,Zika
+PRIMATES,Eulemur_albifrons,PARASITE,Baylisascariasis
+PRIMATES,Eulemur_albifrons,PARASITE,Toxoplasmosis
+PRIMATES,Eulemur_fulvus,PARASITE,Toxoplasmosis
+PRIMATES,Eulemur_macaco,PARASITE,Toxoplasmosis
+PRIMATES,Gorilla_beringei,PARASITE,Balantidiasis
+PRIMATES,Gorilla_beringei,PARASITE,Cryptosporidiosis
+PRIMATES,Gorilla_beringei,FUNGUS,Microsporidiosis
+PRIMATES,Gorilla_beringei,PARASITE,Oesophagostomiasis
+PRIMATES,Gorilla_gorilla,BACTERIUM,Anthrax
+PRIMATES,Gorilla_gorilla,PARASITE,Balantidiasis
+PRIMATES,Gorilla_gorilla,PARASITE,Cryptosporidiosis
+PRIMATES,Gorilla_gorilla,PARASITE,Dientamoeba fragilis infection
+PRIMATES,Gorilla_gorilla,VIRUS,Ebola
+PRIMATES,Gorilla_gorilla,PARASITE,Giardiasis
+PRIMATES,Gorilla_gorilla,VIRUS,Hepatitis B
+PRIMATES,Gorilla_gorilla,FUNGUS,Microsporidiosis
+PRIMATES,Hylobates_lar,PARASITE,Angiostrongyliasis
+PRIMATES,Hylobates_lar,PARASITE,Balantidiasis
+PRIMATES,Hylobates_pileatus,VIRUS,Hepatitis B
+PRIMATES,Lagothrix_lagothricha,VIRUS,Hepatitis B
+PRIMATES,Lagothrix_lagothricha,PARASITE,Toxoplasmosis
+PRIMATES,Lemur_catta,PARASITE,Capillariasis - extraintestinal
+PRIMATES,Lemur_catta,PARASITE,Echinococcosis - multilocular
+PRIMATES,Lemur_catta,BACTERIUM,Ehrlichiosis - human monocytic
+PRIMATES,Lemur_catta,PARASITE,Giardiasis
+PRIMATES,Lemur_catta,PARASITE,Hymenolepis nana infection
+PRIMATES,Lemur_catta,PARASITE,Toxoplasmosis
+PRIMATES,Lemur_catta,PARASITE,Trypanosomiasis - American
+PRIMATES,Lemur_catta,VIRUS,West Nile fever
+PRIMATES,Macaca_arctoides,VIRUS,Herpes B infection
+PRIMATES,Macaca_arctoides,BACTERIUM,Melioidosis
+PRIMATES,Macaca_cyclopis,VIRUS,Herpes B infection
+PRIMATES,Macaca_fascicularis,BACTERIUM,Bartonellosis - other systemic
+PRIMATES,Macaca_fascicularis,VIRUS,Chikungunya
+PRIMATES,Macaca_fascicularis,PARASITE,Cyclosporiasis
+PRIMATES,Macaca_fascicularis,VIRUS,Dengue
+PRIMATES,Macaca_fascicularis,VIRUS,Ebola
+PRIMATES,Macaca_fascicularis,PARASITE,Giardiasis
+PRIMATES,Macaca_fascicularis,VIRUS,Hepatitis B
+PRIMATES,Macaca_fascicularis,VIRUS,Herpes B infection
+PRIMATES,Macaca_fascicularis,VIRUS,Influenza
+PRIMATES,Macaca_fascicularis,VIRUS,Japanese encephalitis
+PRIMATES,Macaca_fascicularis,PARASITE,Malaria
+PRIMATES,Macaca_fascicularis,BACTERIUM,Melioidosis
+PRIMATES,Macaca_fascicularis,FUNGUS,Microsporidiosis
+PRIMATES,Macaca_fascicularis,PARASITE,Toxoplasmosis
+PRIMATES,Macaca_fascicularis,BACTERIUM,Tuberculosis
+PRIMATES,Macaca_fascicularis,BACTERIUM,Tularemia
+PRIMATES,Macaca_fuscata,PARASITE,Balantidiasis
+PRIMATES,Macaca_fuscata,PARASITE,Echinococcosis - multilocular
+PRIMATES,Macaca_fuscata,PARASITE,Gongylonemiasis
+PRIMATES,Macaca_fuscata,VIRUS,Herpes B infection
+PRIMATES,Macaca_fuscata,VIRUS,Japanese encephalitis
+PRIMATES,Macaca_fuscata,PARASITE,Strongyloidiasis
+PRIMATES,Macaca_leonina,VIRUS,Chikungunya
+PRIMATES,Macaca_leonina,VIRUS,Dengue
+PRIMATES,Macaca_leonina,VIRUS,Japanese encephalitis
+PRIMATES,Macaca_mulatta,PARASITE,Balantidiasis
+PRIMATES,Macaca_mulatta,BACTERIUM,Bartonellosis - other systemic
+PRIMATES,Macaca_mulatta,PARASITE,Cryptosporidiosis
+PRIMATES,Macaca_mulatta,PARASITE,Giardiasis
+PRIMATES,Macaca_mulatta,VIRUS,Hepatitis E
+PRIMATES,Macaca_mulatta,VIRUS,Herpes B infection
+PRIMATES,Macaca_mulatta,BACTERIUM,Listeriosis
+PRIMATES,Macaca_mulatta,BACTERIUM,Melioidosis
+PRIMATES,Macaca_mulatta,FUNGUS,Microsporidiosis
+PRIMATES,Macaca_mulatta,PARASITE,Trypanosomiasis - American
+PRIMATES,Macaca_mulatta,BACTERIUM,Tuberculosis
+PRIMATES,Macaca_mulatta,BACTERIUM,Tularemia
+PRIMATES,Macaca_mulatta,VIRUS,West Nile fever
+PRIMATES,Macaca_nemestrina,VIRUS,Chikungunya
+PRIMATES,Macaca_nemestrina,VIRUS,Dengue
+PRIMATES,Macaca_nemestrina,VIRUS,Japanese encephalitis
+PRIMATES,Macaca_nemestrina,BACTERIUM,Melioidosis
+PRIMATES,Macaca_nemestrina,VIRUS,West Nile fever
+PRIMATES,Macaca_nigra,PARASITE,Echinococcosis - multilocular
+PRIMATES,Macaca_radiata,VIRUS,Herpes B infection
+PRIMATES,Macaca_radiata,VIRUS,Kyasanur Forest disease
+PRIMATES,Macaca_silenus,PARASITE,Trypanosomiasis - American
+PRIMATES,Macaca_sinica,VIRUS,Bunyaviridae infections - misc.
+PRIMATES,Macaca_sinica,VIRUS,Chandipura and Vesicular stomatitis viruses
+PRIMATES,Macaca_sinica,VIRUS,Dengue
+PRIMATES,Macaca_sylvanus,VIRUS,Tick-borne encephalitis
+PRIMATES,Macaca_sylvanus,VIRUS,Vaccinia and cowpox
+PRIMATES,Macaca_sylvanus,VIRUS,West Nile fever
+PRIMATES,Mandrillus_leucophaeus,PARASITE,Paragonimiasis
+PRIMATES,Mandrillus_sphinx,VIRUS,West Nile fever
+PRIMATES,Mandrillus_sphinx,VIRUS,Yellow fever
+PRIMATES,Pan_troglodytes,BACTERIUM,Anthrax
+PRIMATES,Pan_troglodytes,PARASITE,Ascariasis
+PRIMATES,Pan_troglodytes,PARASITE,Balantidiasis
+PRIMATES,Pan_troglodytes,PARASITE,Bertiella and Inermicapsifer
+PRIMATES,Pan_troglodytes,PARASITE,Cryptosporidiosis
+PRIMATES,Pan_troglodytes,PARASITE,Cyclosporiasis
+PRIMATES,Pan_troglodytes,PARASITE,Giardiasis
+PRIMATES,Pan_troglodytes,VIRUS,Hepatitis B
+PRIMATES,Pan_troglodytes,PARASITE,Hymenolepis diminuta infection
+PRIMATES,Pan_troglodytes,BACTERIUM,Melioidosis
+PRIMATES,Pan_troglodytes,PARASITE,Oesophagostomiasis
+PRIMATES,Papio_anubis,PARASITE,Ascariasis
+PRIMATES,Papio_anubis,PARASITE,Balantidiasis
+PRIMATES,Papio_anubis,PARASITE,Cryptosporidiosis
+PRIMATES,Papio_anubis,PARASITE,Hymenolepis nana infection
+PRIMATES,Papio_anubis,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Papio_anubis,PARASITE,Oesophagostomiasis
+PRIMATES,Papio_anubis,PARASITE,Schistosomiasis - mansoni
+PRIMATES,Papio_anubis,PARASITE,Strongyloidiasis
+PRIMATES,Papio_cynocephalus,PARASITE,Balantidiasis
+PRIMATES,Papio_cynocephalus,PARASITE,Bertiella and Inermicapsifer
+PRIMATES,Papio_cynocephalus,PARASITE,Leishmaniasis - cutaneous
+PRIMATES,Papio_cynocephalus,PARASITE,Schistosomiasis - mansoni
+PRIMATES,Papio_hamadryas,PARASITE,Schistosomiasis - mansoni
+PRIMATES,Papio_papio,PARASITE,Ascariasis
+PRIMATES,Papio_papio,PARASITE,Balantidiasis
+PRIMATES,Papio_ursinus,PARASITE,Bertiella and Inermicapsifer
+PRIMATES,Papio_ursinus,VIRUS,Hepatitis B
+PRIMATES,Papio_ursinus,PARASITE,Oesophagostomiasis
+PRIMATES,Papio_ursinus,PARASITE,Strongyloidiasis
+PRIMATES,Papio_ursinus,BACTERIUM,Tuberculosis
+PRIMATES,Pithecia_irrorata,PARASITE,Leishmaniasis - visceral
+PRIMATES,Pithecia_pithecia,VIRUS,Mayaro
+PRIMATES,Pithecia_pithecia,VIRUS,Yellow fever
+PRIMATES,Pongo_pygmaeus,PARASITE,Balantidiasis
+PRIMATES,Pongo_pygmaeus,BACTERIUM,Campylobacteriosis
+PRIMATES,Pongo_pygmaeus,VIRUS,Ebola
+PRIMATES,Pongo_pygmaeus,VIRUS,Hepatitis B
+PRIMATES,Pongo_pygmaeus,VIRUS,Marburg virus disease
+PRIMATES,Pongo_pygmaeus,PARASITE,Strongyloidiasis
+PRIMATES,Pongo_pygmaeus,BACTERIUM,Tularemia
+PRIMATES,Saguinus_geoffroyi,PARASITE,Angiostrongyliasis
+PRIMATES,Saguinus_imperator,PARASITE,Leishmaniasis - visceral
+PRIMATES,Saguinus_midas,VIRUS,Mayaro
+PRIMATES,Saguinus_midas,VIRUS,Yellow fever
+PRIMATES,Saguinus_mystax,PARASITE,Angiostrongyliasis - abdominal
+PRIMATES,Saimiri_boliviensis,PARASITE,Trypanosomiasis - American
+PRIMATES,Saimiri_sciureus,BACTERIUM,Leptospirosis
+PRIMATES,Saimiri_sciureus,VIRUS,Mayaro
+PRIMATES,Saimiri_sciureus,PARASITE,Toxoplasmosis
+PRIMATES,Saimiri_sciureus,BACTERIUM,Tuberculosis
+PRIMATES,Saimiri_sciureus,BACTERIUM,Yersiniosis
+PRIMATES,Semnopithecus_entellus,VIRUS,Kyasanur Forest disease
+PRIMATES,Trachypithecus_cristatus,VIRUS,Dengue
+PRIMATES,Varecia_rubra,PARASITE,Toxoplasmosis
+PRIMATES,Varecia_variegata,BACTERIUM,Ehrlichiosis - human monocytic
+PRIMATES,Varecia_variegata,PARASITE,Toxoplasmosis
+PROBOSCIDEA,Elephas_maximus,BACTERIUM,Leptospirosis
+PROBOSCIDEA,Elephas_maximus,BACTERIUM,Tuberculosis
+PROBOSCIDEA,Loxodonta_africana,BACTERIUM,Anthrax
+PROBOSCIDEA,Loxodonta_africana,PARASITE,Cryptosporidiosis
+PROBOSCIDEA,Loxodonta_africana,PARASITE,Toxoplasmosis
+RODENTIA,Abrothrix_olivacea,PARASITE,Trypanosomiasis - American
+RODENTIA,Acomys_cahirinus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Acomys_dimidiatus,PARASITE,Fascioliasis
+RODENTIA,Akodon_azarae,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Akodon_cursor,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Akodon_montensis,PARASITE,Trypanosomiasis - American
+RODENTIA,Akodon_montensis,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Akodon_paranaensis,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Castoria_angustidens,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Akodon_simulator,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Akodon_toba,PARASITE,Trypanosomiasis - American
+RODENTIA,Akodon_toba,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Akodon_varius,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Orientallactaga_sibirica,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_agrarius,PARASITE,Cryptosporidiosis
+RODENTIA,Apodemus_agrarius,PARASITE,Giardiasis
+RODENTIA,Apodemus_agrarius,VIRUS,Vaccinia and cowpox
+RODENTIA,Apodemus_agrarius,BACTERIUM,Ehrlichiosis - human monocytic
+RODENTIA,Apodemus_agrarius,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Apodemus_agrarius,PARASITE,Hymenolepis nana infection
+RODENTIA,Apodemus_agrarius,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Apodemus_agrarius,BACTERIUM,North Asian tick typhus
+RODENTIA,Apodemus_agrarius,VIRUS,Rabies
+RODENTIA,Apodemus_agrarius,VIRUS,Severe fever with thrombocytopenia syndrome
+RODENTIA,Apodemus_agrarius,VIRUS,Tick-borne encephalitis
+RODENTIA,Apodemus_agrarius,PARASITE,Toxocariasis
+RODENTIA,Apodemus_agrarius,BACTERIUM,Typhus - endemic
+RODENTIA,Apodemus_agrarius,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Apodemus_agrarius,BACTERIUM,Anaplasmosis
+RODENTIA,Apodemus_agrarius,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_agrarius,BACTERIUM,Leptospirosis
+RODENTIA,Apodemus_agrarius,PARASITE,Babesiosis
+RODENTIA,Apodemus_agrarius,PARASITE,Echinostomiasis
+RODENTIA,Apodemus_agrarius,BACTERIUM,Lyme disease
+RODENTIA,Apodemus_agrarius,BACTERIUM,Typhus - scrub
+RODENTIA,Apodemus_argenteus,BACTERIUM,Yersiniosis
+RODENTIA,Apodemus_argenteus,PARASITE,Babesiosis
+RODENTIA,Apodemus_flavicollis,PARASITE,Cryptosporidiosis
+RODENTIA,Apodemus_flavicollis,BACTERIUM,Anaplasmosis
+RODENTIA,Apodemus_flavicollis,PARASITE,Giardiasis
+RODENTIA,Apodemus_flavicollis,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Apodemus_flavicollis,BACTERIUM,Ehrlichiosis - human monocytic
+RODENTIA,Apodemus_flavicollis,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Apodemus_flavicollis,BACTERIUM,Bartonellosis - cat borne
+RODENTIA,Apodemus_flavicollis,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Apodemus_flavicollis,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_flavicollis,BACTERIUM,Leptospirosis
+RODENTIA,Apodemus_flavicollis,PARASITE,Babesiosis
+RODENTIA,Apodemus_flavicollis,VIRUS,Tick-borne encephalitis
+RODENTIA,Apodemus_flavicollis,PARASITE,Toxocariasis
+RODENTIA,Apodemus_mystacinus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Apodemus_mystacinus,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_pallipes,VIRUS,Tick-borne encephalitis
+RODENTIA,Apodemus_peninsulae,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Apodemus_peninsulae,BACTERIUM,Anaplasmosis
+RODENTIA,Apodemus_peninsulae,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_ponticus,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_speciosus,PARASITE,Cryptosporidiosis
+RODENTIA,Apodemus_speciosus,BACTERIUM,Yersiniosis
+RODENTIA,Apodemus_speciosus,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_speciosus,BACTERIUM,Leptospirosis
+RODENTIA,Apodemus_speciosus,PARASITE,Babesiosis
+RODENTIA,Apodemus_speciosus,VIRUS,Tick-borne encephalitis
+RODENTIA,Apodemus_sylvaticus,PARASITE,Toxoplasmosis
+RODENTIA,Apodemus_sylvaticus,VIRUS,Vaccinia and cowpox
+RODENTIA,Apodemus_sylvaticus,PARASITE,Leishmaniasis - visceral
+RODENTIA,Apodemus_sylvaticus,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Apodemus_sylvaticus,PARASITE,Echinostomiasis
+RODENTIA,Apodemus_sylvaticus,BACTERIUM,Lyme disease
+RODENTIA,Apodemus_sylvaticus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Apodemus_sylvaticus,BACTERIUM,Typhus - endemic
+RODENTIA,Apodemus_sylvaticus,VIRUS,Louping ill
+RODENTIA,Apodemus_sylvaticus,BACTERIUM,Anaplasmosis
+RODENTIA,Apodemus_sylvaticus,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_sylvaticus,BACTERIUM,Leptospirosis
+RODENTIA,Apodemus_sylvaticus,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Apodemus_sylvaticus,VIRUS,Tick-borne encephalitis
+RODENTIA,Apodemus_sylvaticus,VIRUS,Coltiviruses - Old World
+RODENTIA,Apodemus_uralensis,VIRUS,Hantaviruses - Old World
+RODENTIA,Apodemus_witherbyi,PARASITE,Echinococcosis - multilocular
+RODENTIA,Apodemus_witherbyi,VIRUS,Hantaviruses - Old World
+RODENTIA,Arvicanthis_neumanni,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Arvicanthis_niloticus,BACTERIUM,Leptospirosis
+RODENTIA,Arvicanthis_niloticus,PARASITE,Leishmaniasis - visceral
+RODENTIA,Arvicanthis_niloticus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Arvicanthis_niloticus,BACTERIUM,Relapsing fever
+RODENTIA,Arvicanthis_niloticus,PARASITE,Schistosomiasis - mansoni
+RODENTIA,Arvicola_amphibius,VIRUS,Hantaviruses - Old World
+RODENTIA,Atherurus_africanus,PARASITE,Trypanosomiasis - African
+RODENTIA,Baiomys_taylori,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Bandicota_bengalensis,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Bandicota_bengalensis,VIRUS,Hepatitis E
+RODENTIA,Bandicota_bengalensis,BACTERIUM,Leptospirosis
+RODENTIA,Bandicota_indica,VIRUS,Hepatitis E
+RODENTIA,Bandicota_indica,BACTERIUM,Leptospirosis
+RODENTIA,Bandicota_indica,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Bandicota_indica,BACTERIUM,Spotted fevers - Old World
+RODENTIA,Bandicota_indica,PARASITE,Angiostrongyliasis
+RODENTIA,Bandicota_indica,VIRUS,Hantaviruses - Old World
+RODENTIA,Bandicota_indica,BACTERIUM,Lyme disease
+RODENTIA,Bandicota_indica,BACTERIUM,Typhus - endemic
+RODENTIA,Bandicota_indica,BACTERIUM,Typhus - scrub
+RODENTIA,Bandicota_savilei,VIRUS,Hantaviruses - Old World
+RODENTIA,Bandicota_savilei,BACTERIUM,Typhus - endemic
+RODENTIA,Bandicota_savilei,BACTERIUM,Typhus - scrub
+RODENTIA,Bibimys_chacoensis,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Callosciurus_prevostii,PARASITE,Echinococcosis - multilocular
+RODENTIA,Calomys_callidus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Calomys_callosus,PARASITE,Trypanosomiasis - American
+RODENTIA,Calomys_callosus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Calomys_callosus,VIRUS,Bolivian hemorrhagic fever
+RODENTIA,Calomys_laucha,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Calomys_musculinus,PARASITE,Trypanosomiasis - American
+RODENTIA,Calomys_musculinus,VIRUS,Argentine hemorrhagic fever
+RODENTIA,Calomys_tener,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Cannomys_badius,FUNGUS,Talaromycosis
+RODENTIA,Castor_canadensis,PARASITE,Cryptosporidiosis
+RODENTIA,Castor_canadensis,PARASITE,Giardiasis
+RODENTIA,Castor_canadensis,BACTERIUM,Yersiniosis
+RODENTIA,Castor_fiber,PARASITE,Echinococcosis - multilocular
+RODENTIA,Cavia_aperea,BACTERIUM,Leptospirosis
+RODENTIA,Chaetomys_subspinosus,PARASITE,Toxoplasmosis
+RODENTIA,Chinchilla_chinchilla,FUNGUS,Microsporidiosis
+RODENTIA,Chinchilla_chinchilla,PARASITE,Giardiasis
+RODENTIA,Chinchilla_chinchilla,FUNGUS,Dermatophytosis
+RODENTIA,Chinchilla_lanigera,PARASITE,Cryptosporidiosis
+RODENTIA,Chinchilla_lanigera,FUNGUS,Microsporidiosis
+RODENTIA,Chinchilla_lanigera,PARASITE,Toxoplasmosis
+RODENTIA,Chinchilla_lanigera,PARASITE,Giardiasis
+RODENTIA,Chionomys_roberti,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Coendou_prehensilis,PARASITE,Leishmaniasis - visceral
+RODENTIA,Coendou_prehensilis,VIRUS,Mayaro
+RODENTIA,Cricetomys_emini,VIRUS,Monkeypox
+RODENTIA,Cricetomys_gambianus,PARASITE,Trypanosomiasis - African
+RODENTIA,Cricetomys_gambianus,BACTERIUM,Leptospirosis
+RODENTIA,Cricetulus_barabensis,VIRUS,Severe fever with thrombocytopenia syndrome
+RODENTIA,Cricetulus_barabensis,VIRUS,Hantaviruses - Old World
+RODENTIA,Cricetus_cricetus,BACTERIUM,Leptospirosis
+RODENTIA,Cricetus_cricetus,BACTERIUM,Tularemia
+RODENTIA,Ctenodactylus_gundi,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Cuniculus_paca,PARASITE,Echinococcosis - American polycystic
+RODENTIA,Cuniculus_taczanowskii,PARASITE,Gongylonemiasis
+RODENTIA,Cynomys_ludovicianus,PARASITE,Cryptosporidiosis
+RODENTIA,Cynomys_ludovicianus,PARASITE,Giardiasis
+RODENTIA,Cynomys_ludovicianus,BACTERIUM,Plague
+RODENTIA,Cynomys_ludovicianus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Cynomys_ludovicianus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Cynomys_ludovicianus,BACTERIUM,Tularemia
+RODENTIA,Dasyprocta_leporina,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Dasyprocta_leporina,VIRUS,Mayaro
+RODENTIA,Dasyprocta_leporina,PARASITE,Echinococcosis - American polycystic
+RODENTIA,Dasyprocta_mexicana,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Dasyprocta_prymnolopha,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Diplothrix_legata,PARASITE,Angiostrongyliasis
+RODENTIA,Gerbillus_campestris,BACTERIUM,Relapsing fever
+RODENTIA,Dipus_sagitta,VIRUS,Hantaviruses - Old World
+RODENTIA,Dolichotis_patagonum,VIRUS,Vaccinia and cowpox
+RODENTIA,Dolichotis_patagonum,FUNGUS,Histoplasmosis
+RODENTIA,Eliomys_quercinus,BACTERIUM,Lyme disease
+RODENTIA,Eothenomys_melanogaster,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Gerbillus_nanus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Gerbillus_occiduus,BACTERIUM,Relapsing fever
+RODENTIA,Gerbillus_pyramidum,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Glaucomys_sabrinus,BACTERIUM,Anaplasmosis
+RODENTIA,Glaucomys_volans,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Glaucomys_volans,BACTERIUM,Anaplasmosis
+RODENTIA,Glaucomys_volans,BACTERIUM,Typhus - epidemic
+RODENTIA,Glis_glis,VIRUS,Hantaviruses - Old World
+RODENTIA,Glis_glis,BACTERIUM,Lyme disease
+RODENTIA,Glis_glis,BACTERIUM,Typhus - endemic
+RODENTIA,Graomys_griseoflavus,PARASITE,Trypanosomiasis - American
+RODENTIA,Graomys_griseoflavus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Heteromys_anomalus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Heteromys_desmarestianus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Heteromys_gaumeri,BACTERIUM,Leptospirosis
+RODENTIA,Holochilus_sciureus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Hystrix_cristata,PARASITE,Toxoplasmosis
+RODENTIA,Lemniscomys_striatus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Lemniscomys_striatus,VIRUS,Lassa fever
+RODENTIA,Leopoldamys_edwardsi,BACTERIUM,Lyme disease
+RODENTIA,Heteromys_irroratus,PARASITE,Toxoplasmosis
+RODENTIA,Lophuromys_flavopunctatus,PARASITE,Schistosomiasis - mansoni
+RODENTIA,Lophuromys_sikapusi,VIRUS,Rabies
+RODENTIA,Loxodontomys_micropus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Marmota_flaviventris,PARASITE,Cryptosporidiosis
+RODENTIA,Marmota_himalayana,BACTERIUM,Plague
+RODENTIA,Marmota_monax,VIRUS,Rabies
+RODENTIA,Marmota_monax,PARASITE,Toxoplasmosis
+RODENTIA,Marmota_monax,PARASITE,Cryptosporidiosis
+RODENTIA,Marmota_monax,VIRUS,Hepatitis E
+RODENTIA,Marmota_monax,BACTERIUM,Tularemia
+RODENTIA,Marmota_monax,VIRUS,Powassan
+RODENTIA,Marmota_sibirica,BACTERIUM,Plague
+RODENTIA,Mastomys_erythroleucus,VIRUS,Lassa fever
+RODENTIA,Mastomys_erythroleucus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Mastomys_erythroleucus,VIRUS,Rift Valley fever
+RODENTIA,Mastomys_huberti,PARASITE,Schistosomiasis - mansoni
+RODENTIA,Mastomys_huberti,VIRUS,Rift Valley fever
+RODENTIA,Mastomys_natalensis,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Mastomys_natalensis,VIRUS,Rift Valley fever
+RODENTIA,Mastomys_natalensis,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Mastomys_natalensis,BACTERIUM,Plague
+RODENTIA,Mastomys_natalensis,VIRUS,Crimean-Congo hemorrhagic fever
+RODENTIA,Mastomys_natalensis,VIRUS,Lassa fever
+RODENTIA,Mastomys_natalensis,VIRUS,Chikungunya
+RODENTIA,Megadontomys_thomasi,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Meriones_crassus,PARASITE,Fascioliasis
+RODENTIA,Meriones_crassus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Meriones_hurrianae,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Meriones_libycus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Meriones_meridianus,VIRUS,Hantaviruses - Old World
+RODENTIA,Meriones_meridianus,VIRUS,Vaccinia and cowpox
+RODENTIA,Meriones_persicus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Meriones_persicus,BACTERIUM,Plague
+RODENTIA,Meriones_sacramenti,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Meriones_shawii,BACTERIUM,Relapsing fever
+RODENTIA,Meriones_tristrami,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Meriones_unguiculatus,BACTERIUM,Plague
+RODENTIA,Meriones_vinogradovi,BACTERIUM,Plague
+RODENTIA,Mesocricetus_auratus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Mesocricetus_auratus,PARASITE,Cryptosporidiosis
+RODENTIA,Mesocricetus_auratus,PARASITE,Giardiasis
+RODENTIA,Mesocricetus_auratus,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Mesocricetus_auratus,PARASITE,Hymenolepis nana infection
+RODENTIA,Mesocricetus_brandti,BACTERIUM,Plague
+RODENTIA,Micaelamys_namaquensis,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Micromys_minutus,VIRUS,Hantaviruses - Old World
+RODENTIA,Micromys_minutus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Micromys_minutus,BACTERIUM,Typhus - scrub
+RODENTIA,Microsciurus_alfari,FUNGUS,Microsporidiosis
+RODENTIA,Microsciurus_flaviventer,FUNGUS,Microsporidiosis
+RODENTIA,Microsciurus_mimulus,FUNGUS,Microsporidiosis
+RODENTIA,Microsciurus_santanderensis,FUNGUS,Microsporidiosis
+RODENTIA,Microtus_agrestis,BACTERIUM,Bartonellosis - cat borne
+RODENTIA,Microtus_agrestis,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Microtus_agrestis,BACTERIUM,Anaplasmosis
+RODENTIA,Microtus_agrestis,VIRUS,Hantaviruses - Old World
+RODENTIA,Microtus_agrestis,VIRUS,Vaccinia and cowpox
+RODENTIA,Microtus_agrestis,PARASITE,Babesiosis
+RODENTIA,Microtus_agrestis,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Microtus_agrestis,VIRUS,Tick-borne encephalitis
+RODENTIA,Microtus_arvalis,PARASITE,Toxoplasmosis
+RODENTIA,Microtus_arvalis,BACTERIUM,Anaplasmosis
+RODENTIA,Microtus_arvalis,BACTERIUM,Lyme disease
+RODENTIA,Microtus_arvalis,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Microtus_arvalis,BACTERIUM,Tularemia
+RODENTIA,Microtus_arvalis,BACTERIUM,Plague
+RODENTIA,Microtus_arvalis,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Microtus_arvalis,PARASITE,Cryptosporidiosis
+RODENTIA,Microtus_arvalis,PARASITE,Giardiasis
+RODENTIA,Microtus_arvalis,VIRUS,Hantaviruses - Old World
+RODENTIA,Microtus_arvalis,BACTERIUM,Leptospirosis
+RODENTIA,Microtus_arvalis,PARASITE,Babesiosis
+RODENTIA,Microtus_arvalis,VIRUS,Tick-borne encephalitis
+RODENTIA,Microtus_arvalis,PARASITE,Echinococcosis - multilocular
+RODENTIA,Microtus_californicus,PARASITE,Toxoplasmosis
+RODENTIA,Microtus_californicus,BACTERIUM,Anaplasmosis
+RODENTIA,Microtus_californicus,BACTERIUM,Lyme disease
+RODENTIA,Microtus_californicus,BACTERIUM,Relapsing fever
+RODENTIA,Microtus_californicus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Microtus_duodecimcostatus,BACTERIUM,Tularemia
+RODENTIA,Alexandromys_fortis,BACTERIUM,Leptospirosis
+RODENTIA,Alexandromys_fortis,PARASITE,Toxoplasmosis
+RODENTIA,Alexandromys_fortis,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Alexandromys_fortis,BACTERIUM,North Asian tick typhus
+RODENTIA,Alexandromys_fortis,BACTERIUM,Typhus - scrub
+RODENTIA,Microtus_guentheri,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Microtus_ilaeus,VIRUS,Tick-borne encephalitis
+RODENTIA,Microtus_mystacinus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Alexandromys_maximowiczii,VIRUS,Hantaviruses - Old World
+RODENTIA,Alexandromys_montebelli,BACTERIUM,Leptospirosis
+RODENTIA,Microtus_ochrogaster,PARASITE,Babesiosis
+RODENTIA,Alexandromys_oeconomus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Alexandromys_oeconomus,BACTERIUM,Anaplasmosis
+RODENTIA,Alexandromys_oeconomus,PARASITE,Babesiosis
+RODENTIA,Microtus_pennsylvanicus,PARASITE,Cryptosporidiosis
+RODENTIA,Microtus_pennsylvanicus,PARASITE,Echinococcosis - multilocular
+RODENTIA,Microtus_subterraneus,PARASITE,Echinococcosis - multilocular
+RODENTIA,Microtus_transcaspicus,PARASITE,Echinococcosis - multilocular
+RODENTIA,Mus_musculus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Mus_musculus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Mus_musculus,VIRUS,Hantaviruses - Old World
+RODENTIA,Mus_musculus,VIRUS,Hepatitis E
+RODENTIA,Mus_musculus,BACTERIUM,Leptospirosis
+RODENTIA,Mus_musculus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Mus_musculus,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Mus_musculus,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Mus_musculus,BACTERIUM,Typhus - endemic
+RODENTIA,Mus_musculus,PARASITE,Echinococcosis - multilocular
+RODENTIA,Mus_musculus,BACTERIUM,Rickettsialpox
+RODENTIA,Mus_setulosus,VIRUS,Ebola
+RODENTIA,Mus_spicilegus,PARASITE,Toxocariasis
+RODENTIA,Mus_spretus,BACTERIUM,Anaplasmosis
+RODENTIA,Mus_spretus,BACTERIUM,Typhus - endemic
+RODENTIA,Myocastor_coypus,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Myocastor_coypus,PARASITE,Echinococcosis - multilocular
+RODENTIA,Myocastor_coypus,PARASITE,Toxoplasmosis
+RODENTIA,Myocastor_coypus,PARASITE,Fascioliasis
+RODENTIA,Myocastor_coypus,BACTERIUM,Leptospirosis
+RODENTIA,Clethrionomys_centralis,VIRUS,Tick-borne encephalitis
+RODENTIA,Clethrionomys_gapperi,PARASITE,Echinococcosis - multilocular
+RODENTIA,Clethrionomys_glareolus,BACTERIUM,Lyme disease
+RODENTIA,Clethrionomys_glareolus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Clethrionomys_glareolus,VIRUS,Hantaviruses - Old World
+RODENTIA,Clethrionomys_glareolus,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Clethrionomys_glareolus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Clethrionomys_glareolus,BACTERIUM,Anaplasmosis
+RODENTIA,Clethrionomys_glareolus,PARASITE,Babesiosis
+RODENTIA,Craseomys_regulus,VIRUS,Hantaviruses - Old World
+RODENTIA,Clethrionomys_rutilus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Clethrionomys_rutilus,VIRUS,Hantaviruses - Old World
+RODENTIA,Neacomys_spinosus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Necromys_lasiurus,PARASITE,Trypanosomiasis - American
+RODENTIA,Necromys_lasiurus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Necromys_lenguarum,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Nectomys_rattus,BACTERIUM,Spotted fevers - New World
+RODENTIA,Nectomys_squamipes,BACTERIUM,Spotted fevers - New World
+RODENTIA,Nectomys_squamipes,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Nectomys_squamipes,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Nectomys_squamipes,PARASITE,Leishmaniasis - mucocutaneous
+RODENTIA,Nectomys_squamipes,PARASITE,Schistosomiasis - mansoni
+RODENTIA,Neotoma_albigula,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Neotoma_albigula,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Neotoma_cinerea,PARASITE,Echinococcosis - multilocular
+RODENTIA,Neotoma_cinerea,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Neotoma_fuscipes,BACTERIUM,Anaplasmosis
+RODENTIA,Neotoma_fuscipes,BACTERIUM,Lyme disease
+RODENTIA,Neotoma_fuscipes,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Neotoma_fuscipes,BACTERIUM,Rickettsialpox
+RODENTIA,Neotoma_lepida,FUNGUS,Coccidioidomycosis
+RODENTIA,Neotoma_lepida,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Neotoma_macrotis,BACTERIUM,Relapsing fever
+RODENTIA,Neotoma_macrotis,BACTERIUM,Anaplasmosis
+RODENTIA,Neotoma_magister,PARASITE,Baylisascariasis
+RODENTIA,Neotoma_mexicana,BACTERIUM,Anaplasmosis
+RODENTIA,Neotoma_mexicana,BACTERIUM,Lyme disease
+RODENTIA,Neotoma_mexicana,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Neotoma_micropus,PARASITE,Toxoplasmosis
+RODENTIA,Neotoma_micropus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Neotoma_micropus,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Nesokia_indica,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Niviventer_confucianus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Niviventer_confucianus,PARASITE,Babesiosis
+RODENTIA,Niviventer_confucianus,BACTERIUM,Typhus - scrub
+RODENTIA,Niviventer_niviventer,BACTERIUM,Typhus - scrub
+RODENTIA,Nyctomys_sumichrasti,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Octodon_degus,PARASITE,Trypanosomiasis - American
+RODENTIA,Oligoryzomys_chacoensis,PARASITE,Trypanosomiasis - American
+RODENTIA,Oligoryzomys_chacoensis,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Oligoryzomys_flavescens,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Oligoryzomys_fulvescens,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Oligoryzomys_longicaudatus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Oligoryzomys_microtis,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Oligoryzomys_nigripes,PARASITE,Trypanosomiasis - American
+RODENTIA,Oligoryzomys_nigripes,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Ondatra_zibethicus,PARASITE,Toxoplasmosis
+RODENTIA,Ondatra_zibethicus,VIRUS,Hantaviruses - Old World
+RODENTIA,Ondatra_zibethicus,PARASITE,Echinococcosis - multilocular
+RODENTIA,Sooretamys_angouya,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Hylaeamys_megacephalus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Handleyomys_melanotis,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Euryoryzomys_nitidus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Oryzomys_palustris,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Cerradomys_subflavus,BACTERIUM,Spotted fevers - New World
+RODENTIA,Ototylomys_phyllotis,BACTERIUM,Leptospirosis
+RODENTIA,Ototylomys_phyllotis,BACTERIUM,Rickettsia felis infection
+RODENTIA,Ototylomys_phyllotis,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Oxymycterus_nasutus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_aztecus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_beatae,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_boylii,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_boylii,BACTERIUM,Anaplasmosis
+RODENTIA,Peromyscus_boylii,BACTERIUM,Lyme disease
+RODENTIA,Peromyscus_boylii,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Peromyscus_eremicus,BACTERIUM,Rickettsialpox
+RODENTIA,Peromyscus_gossypinus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_gossypinus,VIRUS,Venezuelan equine encephalitis
+RODENTIA,Peromyscus_leucopus,PARASITE,Baylisascariasis
+RODENTIA,Peromyscus_leucopus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_leucopus,BACTERIUM,Anaplasmosis
+RODENTIA,Peromyscus_leucopus,PARASITE,Babesiosis
+RODENTIA,Peromyscus_leucopus,BACTERIUM,Ehrlichiosis - human monocytic
+RODENTIA,Peromyscus_leucopus,BACTERIUM,Lyme disease
+RODENTIA,Peromyscus_leucopus,VIRUS,Powassan
+RODENTIA,Peromyscus_levipes,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_maniculatus,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Peromyscus_maniculatus,VIRUS,Powassan
+RODENTIA,Peromyscus_maniculatus,FUNGUS,Coccidioidomycosis
+RODENTIA,Peromyscus_maniculatus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Peromyscus_maniculatus,PARASITE,Cryptosporidiosis
+RODENTIA,Peromyscus_maniculatus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_maniculatus,BACTERIUM,Lyme disease
+RODENTIA,Peromyscus_maniculatus,PARASITE,Echinococcosis - multilocular
+RODENTIA,Peromyscus_maniculatus,BACTERIUM,Tularemia
+RODENTIA,Peromyscus_maniculatus,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Peromyscus_maniculatus,BACTERIUM,Rickettsialpox
+RODENTIA,Peromyscus_megalops,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_melanotis,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Peromyscus_mexicanus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_truei,VIRUS,Powassan
+RODENTIA,Peromyscus_truei,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Peromyscus_yucatanicus,BACTERIUM,Rickettsia felis infection
+RODENTIA,Peromyscus_yucatanicus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Phodopus_campbelli,PARASITE,Cryptosporidiosis
+RODENTIA,Phodopus_campbelli,PARASITE,Giardiasis
+RODENTIA,Phodopus_campbelli,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Phodopus_campbelli,PARASITE,Hymenolepis nana infection
+RODENTIA,Phodopus_roborovskii,PARASITE,Cryptosporidiosis
+RODENTIA,Phodopus_roborovskii,PARASITE,Giardiasis
+RODENTIA,Phodopus_roborovskii,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Phodopus_roborovskii,PARASITE,Hymenolepis nana infection
+RODENTIA,Phodopus_sungorus,PARASITE,Cryptosporidiosis
+RODENTIA,Phodopus_sungorus,PARASITE,Giardiasis
+RODENTIA,Phodopus_sungorus,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Phodopus_sungorus,PARASITE,Hymenolepis nana infection
+RODENTIA,Phyllotis_darwinii,PARASITE,Trypanosomiasis - American
+RODENTIA,Praomys_daltoni,VIRUS,Lassa fever
+RODENTIA,Praomys_rostratus,VIRUS,Lassa fever
+RODENTIA,Proechimys_cuvieri,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Proechimys_goeldii,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Proechimys_guyannensis,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Psammomys_obesus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Psammomys_vexillaris,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Pteromys_volans,PARASITE,Echinococcosis - multilocular
+RODENTIA,Rattus_argentiventer,BACTERIUM,Leptospirosis
+RODENTIA,Rattus_argentiventer,VIRUS,Hantaviruses - Old World
+RODENTIA,Rattus_argentiventer,BACTERIUM,Typhus - endemic
+RODENTIA,Rattus_argentiventer,BACTERIUM,Typhus - scrub
+RODENTIA,Rattus_exulans,BACTERIUM,Leptospirosis
+RODENTIA,Rattus_exulans,BACTERIUM,Spotted fevers - Old World
+RODENTIA,Rattus_exulans,PARASITE,Angiostrongyliasis
+RODENTIA,Rattus_exulans,VIRUS,Hantaviruses - Old World
+RODENTIA,Rattus_exulans,BACTERIUM,Typhus - endemic
+RODENTIA,Rattus_exulans,BACTERIUM,Typhus - scrub
+RODENTIA,Rattus_exulans,BACTERIUM,Plague
+RODENTIA,Rattus_exulans,BACTERIUM,Japanese spotted fever
+RODENTIA,Rattus_fuscipes,PARASITE,Fascioliasis
+RODENTIA,Rattus_hoffmanni,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Rattus_losea,BACTERIUM,Anaplasmosis
+RODENTIA,Rattus_losea,VIRUS,Hepatitis E
+RODENTIA,Rattus_losea,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Rattus_losea,VIRUS,Hantaviruses - Old World
+RODENTIA,Rattus_losea,BACTERIUM,Lyme disease
+RODENTIA,Rattus_losea,BACTERIUM,Typhus - endemic
+RODENTIA,Rattus_losea,BACTERIUM,Typhus - scrub
+RODENTIA,Rattus_nitidus,VIRUS,Hantaviruses - Old World
+RODENTIA,Rattus_norvegicus,PARASITE,Trypanosomiasis - American
+RODENTIA,Rattus_norvegicus,PARASITE,Toxoplasmosis
+RODENTIA,Rattus_norvegicus,BACTERIUM,Spotted fevers - Old World
+RODENTIA,Rattus_norvegicus,BACTERIUM,Brucellosis
+RODENTIA,Rattus_norvegicus,PARASITE,Cryptosporidiosis
+RODENTIA,Rattus_norvegicus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Rattus_norvegicus,VIRUS,Hepatitis E
+RODENTIA,Rattus_norvegicus,VIRUS,Vaccinia and cowpox
+RODENTIA,Rattus_norvegicus,PARASITE,Leishmaniasis - visceral
+RODENTIA,Rattus_norvegicus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Rattus_norvegicus,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Rattus_norvegicus,PARASITE,Echinostomiasis
+RODENTIA,Rattus_norvegicus,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Rattus_norvegicus,PARASITE,Hymenolepis nana infection
+RODENTIA,Rattus_norvegicus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Rattus_norvegicus,VIRUS,Tick-borne encephalitis
+RODENTIA,Rattus_norvegicus,BACTERIUM,Typhus - endemic
+RODENTIA,Rattus_norvegicus,VIRUS,Influenza
+RODENTIA,Rattus_norvegicus,PARASITE,Schistosomiasis - mansoni
+RODENTIA,Rattus_norvegicus,BACTERIUM,Q-fever
+RODENTIA,Rattus_norvegicus,BACTERIUM,Tularemia
+RODENTIA,Rattus_norvegicus,BACTERIUM,Salmonellosis
+RODENTIA,Rattus_norvegicus,PARASITE,Trichinosis
+RODENTIA,Rattus_norvegicus,BACTERIUM,Plague
+RODENTIA,Rattus_norvegicus,PARASITE,Dioctophyma renale infection
+RODENTIA,Rattus_norvegicus,BACTERIUM,Japanese spotted fever
+RODENTIA,Rattus_norvegicus,BACTERIUM,Rickettsialpox
+RODENTIA,Rattus_norvegicus,PARASITE,Taeniasis
+RODENTIA,Rattus_norvegicus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Rattus_norvegicus,PARASITE,Fascioliasis
+RODENTIA,Rattus_norvegicus,PARASITE,Angiostrongyliasis
+RODENTIA,Rattus_norvegicus,VIRUS,Hantaviruses - Old World
+RODENTIA,Rattus_norvegicus,BACTERIUM,Leptospirosis
+RODENTIA,Rattus_norvegicus,BACTERIUM,Lyme disease
+RODENTIA,Rattus_norvegicus,BACTERIUM,Typhus - scrub
+RODENTIA,Rattus_norvegicus,BACTERIUM,Bartonellosis - cat borne
+RODENTIA,Rattus_norvegicus,PARASITE,Angiostrongyliasis - abdominal
+RODENTIA,Rattus_rattus,PARASITE,Trypanosomiasis - American
+RODENTIA,Rattus_rattus,PARASITE,Toxoplasmosis
+RODENTIA,Rattus_rattus,PARASITE,Fascioliasis
+RODENTIA,Rattus_rattus,BACTERIUM,Spotted fevers - Old World
+RODENTIA,Rattus_rattus,BACTERIUM,Brucellosis
+RODENTIA,Rattus_rattus,PARASITE,Cryptosporidiosis
+RODENTIA,Rattus_rattus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Rattus_rattus,BACTERIUM,Anaplasmosis
+RODENTIA,Rattus_rattus,PARASITE,Giardiasis
+RODENTIA,Rattus_rattus,VIRUS,Hepatitis E
+RODENTIA,Rattus_rattus,VIRUS,Vaccinia and cowpox
+RODENTIA,Rattus_rattus,PARASITE,Leishmaniasis - visceral
+RODENTIA,Rattus_rattus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Rattus_rattus,PARASITE,Capillariasis - extraintestinal
+RODENTIA,Rattus_rattus,PARASITE,Leishmaniasis - mucocutaneous
+RODENTIA,Rattus_rattus,PARASITE,Babesiosis
+RODENTIA,Rattus_rattus,PARASITE,Echinostomiasis
+RODENTIA,Rattus_rattus,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Rattus_rattus,PARASITE,Hymenolepis nana infection
+RODENTIA,Rattus_rattus,BACTERIUM,Lyme disease
+RODENTIA,Rattus_rattus,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Rattus_rattus,BACTERIUM,North Asian tick typhus
+RODENTIA,Rattus_rattus,VIRUS,Tick-borne encephalitis
+RODENTIA,Rattus_rattus,BACTERIUM,Typhus - endemic
+RODENTIA,Rattus_rattus,VIRUS,Influenza
+RODENTIA,Rattus_rattus,PARASITE,Schistosomiasis - mansoni
+RODENTIA,Rattus_rattus,BACTERIUM,Rickettsia felis infection
+RODENTIA,Rattus_rattus,BACTERIUM,Q-fever
+RODENTIA,Rattus_rattus,PARASITE,Schistosomiasis - japonicum
+RODENTIA,Rattus_rattus,BACTERIUM,Tularemia
+RODENTIA,Rattus_rattus,VIRUS,Rift Valley fever
+RODENTIA,Rattus_rattus,BACTERIUM,Salmonellosis
+RODENTIA,Rattus_rattus,PARASITE,Acanthocephalan infections
+RODENTIA,Rattus_rattus,PARASITE,Trichinosis
+RODENTIA,Rattus_rattus,BACTERIUM,Plague
+RODENTIA,Rattus_rattus,BACTERIUM,Spotted fevers - New World
+RODENTIA,Rattus_rattus,PARASITE,Dioctophyma renale infection
+RODENTIA,Rattus_rattus,VIRUS,Kyasanur Forest disease
+RODENTIA,Rattus_rattus,BACTERIUM,Japanese spotted fever
+RODENTIA,Rattus_rattus,BACTERIUM,Rickettsialpox
+RODENTIA,Rattus_rattus,PARASITE,Taeniasis
+RODENTIA,Rattus_rattus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Rattus_rattus,PARASITE,Angiostrongyliasis
+RODENTIA,Rattus_rattus,VIRUS,Hantaviruses - Old World
+RODENTIA,Rattus_rattus,BACTERIUM,Leptospirosis
+RODENTIA,Rattus_rattus,BACTERIUM,Typhus - scrub
+RODENTIA,Rattus_rattus,BACTERIUM,Bartonellosis - cat borne
+RODENTIA,Rattus_rattus,PARASITE,Angiostrongyliasis - abdominal
+RODENTIA,Rattus_tanezumi,BACTERIUM,Leptospirosis
+RODENTIA,Rattus_tanezumi,PARASITE,Cryptosporidiosis
+RODENTIA,Rattus_tanezumi,VIRUS,Hantaviruses - Old World
+RODENTIA,Rattus_tiomanicus,BACTERIUM,Spotted fevers - Old World
+RODENTIA,Rattus_tiomanicus,PARASITE,Angiostrongyliasis
+RODENTIA,Rattus_tiomanicus,BACTERIUM,Leptospirosis
+RODENTIA,Rattus_tiomanicus,PARASITE,Hymenolepis diminuta infection
+RODENTIA,Rattus_tiomanicus,PARASITE,Hymenolepis nana infection
+RODENTIA,Rattus_tiomanicus,BACTERIUM,Japanese spotted fever
+RODENTIA,Reithrodontomys_creper,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Reithrodontomys_megalotis,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Reithrodontomys_megalotis,VIRUS,Whitewater Arroyo virus infection
+RODENTIA,Reithrodontomys_mexicanus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Reithrodontomys_sumichrasti,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Rhabdomys_pumilio,BACTERIUM,Plague
+RODENTIA,Rhipidomys_leucodactylus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Rhipidomys_leucodactylus,PARASITE,Leishmaniasis - mucocutaneous
+RODENTIA,Rhizomys_pruinosus,FUNGUS,Talaromycosis
+RODENTIA,Rhizomys_sinensis,FUNGUS,Talaromycosis
+RODENTIA,Rhizomys_sumatrensis,FUNGUS,Talaromycosis
+RODENTIA,Rhombomys_opimus,PARASITE,Echinococcosis - unilocular
+RODENTIA,Rhombomys_opimus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Rhombomys_opimus,BACTERIUM,Plague
+RODENTIA,Sciurus_carolinensis,BACTERIUM,Anaplasmosis
+RODENTIA,Sciurus_carolinensis,BACTERIUM,Lyme disease
+RODENTIA,Sciurus_carolinensis,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Sciurus_carolinensis,VIRUS,West Nile fever
+RODENTIA,Sciurus_carolinensis,VIRUS,California encephalitis group
+RODENTIA,Sciurus_griseus,BACTERIUM,Anaplasmosis
+RODENTIA,Sciurus_griseus,BACTERIUM,Lyme disease
+RODENTIA,Sciurus_griseus,VIRUS,West Nile fever
+RODENTIA,Sciurus_niger,BACTERIUM,Leptospirosis
+RODENTIA,Sciurus_niger,VIRUS,West Nile fever
+RODENTIA,Sciurus_variegatoides,VIRUS,Borna virus encephalitis
+RODENTIA,Sciurus_vulgaris,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Sciurus_vulgaris,BACTERIUM,Lyme disease
+RODENTIA,Sciurus_vulgaris,VIRUS,Lymphocytic choriomeningitis
+RODENTIA,Sigmodon_alstoni,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Sigmodon_alstoni,VIRUS,Venezuelan hemorrhagic fever
+RODENTIA,Sigmodon_hispidus,PARASITE,Toxoplasmosis
+RODENTIA,Sigmodon_hispidus,PARASITE,Angiostrongyliasis
+RODENTIA,Sigmodon_hispidus,PARASITE,Trypanosomiasis - American
+RODENTIA,Sigmodon_hispidus,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Sigmodon_hispidus,VIRUS,Eastern equine encephalitis
+RODENTIA,Sigmodon_hispidus,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Sigmodon_hispidus,PARASITE,Leishmaniasis - mucocutaneous
+RODENTIA,Sigmodon_hispidus,BACTERIUM,Lyme disease
+RODENTIA,Sigmodon_hispidus,VIRUS,Venezuelan equine encephalitis
+RODENTIA,Sigmodon_hispidus,PARASITE,Angiostrongyliasis - abdominal
+RODENTIA,Spermophilus_alashanicus,PARASITE,Echinococcosis - unilocular
+RODENTIA,Otospermophilus_beecheyi,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Otospermophilus_beecheyi,PARASITE,Cryptosporidiosis
+RODENTIA,Spermophilus_dauricus,PARASITE,Echinococcosis - unilocular
+RODENTIA,Callospermophilus_lateralis,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Callospermophilus_lateralis,VIRUS,Colorado tick fever
+RODENTIA,Spermophilus_suslicus,PARASITE,Cryptosporidiosis
+RODENTIA,Otospermophilus_variegatus,PARASITE,Toxoplasmosis
+RODENTIA,Neotamias_minimus,BACTERIUM,Bartonellosis - other systemic
+RODENTIA,Neotamias_ochrogenys,BACTERIUM,Anaplasmosis
+RODENTIA,Neotamias_ochrogenys,BACTERIUM,Lyme disease
+RODENTIA,Eutamias_sibiricus,BACTERIUM,Lyme disease
+RODENTIA,Neotamias_sonomae,BACTERIUM,Anaplasmosis
+RODENTIA,Tamias_striatus,BACTERIUM,Anaplasmosis
+RODENTIA,Tamias_striatus,PARASITE,Babesiosis
+RODENTIA,Tamias_striatus,VIRUS,West Nile fever
+RODENTIA,Tamias_striatus,VIRUS,California encephalitis group
+RODENTIA,Tamiasciurus_hudsonicus,PARASITE,Toxoplasmosis
+RODENTIA,Tamiasciurus_hudsonicus,PARASITE,Cryptosporidiosis
+RODENTIA,Tamiasciurus_hudsonicus,BACTERIUM,Anaplasmosis
+RODENTIA,Tatera_indica,PARASITE,Leishmaniasis - cutaneous
+RODENTIA,Tatera_indica,BACTERIUM,Plague
+RODENTIA,Thaptomys_nigrita,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Tscherskia_triton,BACTERIUM,Typhus - scrub
+RODENTIA,Tylomys_mirae,PARASITE,Trypanosomiasis - American
+RODENTIA,Zygodontomys_brevicauda,VIRUS,Hantavirus pulmonary syndrome
+RODENTIA,Zygodontomys_brevicauda,VIRUS,Venezuelan hemorrhagic fever
+SCANDENTIA,Tupaia_glis,BACTERIUM,Typhus - endemic
+SCANDENTIA,Tupaia_glis,BACTERIUM,Typhus - scrub
+EULIPOTYPHLA,Anourosorex_squamipes,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Blarina_brevicauda,BACTERIUM,Anaplasmosis
+EULIPOTYPHLA,Blarina_brevicauda,PARASITE,Babesiosis
+EULIPOTYPHLA,Blarina_brevicauda,PARASITE,Cryptosporidiosis
+EULIPOTYPHLA,Blarina_brevicauda,BACTERIUM,Lyme disease
+EULIPOTYPHLA,Blarina_carolinensis,BACTERIUM,Anaplasmosis
+EULIPOTYPHLA,Crocidura_dsinezumi,PARASITE,Babesiosis
+EULIPOTYPHLA,Crocidura_horsfieldii,PARASITE,Babesiosis
+EULIPOTYPHLA,Crocidura_lasiura,PARASITE,Echinostomiasis
+EULIPOTYPHLA,Crocidura_lasiura,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Crocidura_lasiura,BACTERIUM,Typhus - endemic
+EULIPOTYPHLA,Crocidura_russula,VIRUS,Crimean-Congo hemorrhagic fever
+EULIPOTYPHLA,Crocidura_russula,PARASITE,Toxoplasmosis
+EULIPOTYPHLA,Crocidura_russula,PARASITE,Cryptosporidiosis
+EULIPOTYPHLA,Neomys_fodiens,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Parascalops_breweri,PARASITE,Cryptosporidiosis
+EULIPOTYPHLA,Sorex_araneus,BACTERIUM,Anaplasmosis
+EULIPOTYPHLA,Sorex_araneus,PARASITE,Babesiosis
+EULIPOTYPHLA,Sorex_araneus,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Sorex_araneus,VIRUS,Louping ill
+EULIPOTYPHLA,Sorex_araneus,BACTERIUM,Lyme disease
+EULIPOTYPHLA,Sorex_araneus,VIRUS,Vaccinia and cowpox
+EULIPOTYPHLA,Sorex_araneus,PARASITE,Cryptosporidiosis
+EULIPOTYPHLA,Sorex_araneus,PARASITE,Sarcocystosis
+EULIPOTYPHLA,Sorex_caecutiens,VIRUS,Hepatitis E
+EULIPOTYPHLA,Sorex_cinereus,BACTERIUM,Anaplasmosis
+EULIPOTYPHLA,Sorex_cinereus,PARASITE,Cryptosporidiosis
+EULIPOTYPHLA,Sorex_cinereus,BACTERIUM,Lyme disease
+EULIPOTYPHLA,Sorex_minutus,PARASITE,Cryptosporidiosis
+EULIPOTYPHLA,Sorex_roboratus,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Suncus_murinus,BACTERIUM,Bartonellosis - other systemic
+EULIPOTYPHLA,Suncus_murinus,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Suncus_murinus,VIRUS,Hepatitis E
+EULIPOTYPHLA,Suncus_murinus,VIRUS,Kyasanur Forest disease
+EULIPOTYPHLA,Suncus_murinus,BACTERIUM,Plague
+EULIPOTYPHLA,Suncus_murinus,VIRUS,Rabies
+EULIPOTYPHLA,Suncus_murinus,BACTERIUM,Typhus - scrub
+EULIPOTYPHLA,Sylvisorex_ollula,VIRUS,Ebola
+EULIPOTYPHLA,Talpa_europaea,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Crocidura_suaveolens,VIRUS,Hantaviruses - Old World
+EULIPOTYPHLA,Sorex_araneus,BACTERIUM,Leptospirosis
+PRIMATES,Eulemur_macaco,PARASITE,Gongylonemiasis
+PRIMATES,Pithecia_pithecia,PARASITE,Malaria
+PRIMATES,Saguinus_midas,PARASITE,Malaria
+PRIMATES,Trachypithecus_cristatus,PARASITE,Filariasis - Brugia malayi

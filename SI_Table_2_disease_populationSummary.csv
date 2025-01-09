@@ -1,0 +1,735 @@
+disease_agent,gideon_disease,region,pop
+PARASITE,Acanthocephalan infections,rest of Asia,289869396
+PARASITE,Acanthocephalan infections,China,455087531
+PARASITE,Acanthocephalan infections,India,311536786
+PARASITE,Acanthocephalan infections,Southeast Asia,50821662
+PARASITE,Acanthocephalan infections,Africa,481950918
+PARASITE,Acanthocephalan infections,Europe,499358227
+PARASITE,Acanthocephalan infections,North America,189543606
+BACTERIUM,Anaplasmosis,rest of Asia,300810715
+BACTERIUM,Anaplasmosis,China,463337665
+BACTERIUM,Anaplasmosis,India,311564049
+BACTERIUM,Anaplasmosis,Southeast Asia,182429088
+BACTERIUM,Anaplasmosis,Africa,522587852
+BACTERIUM,Anaplasmosis,Central America and Caribbean,114062537
+BACTERIUM,Anaplasmosis,South America,144581049
+BACTERIUM,Anaplasmosis,Europe,499475308
+BACTERIUM,Anaplasmosis,North America,218238099
+PARASITE,Angiostrongyliasis,rest of Asia,209371893
+PARASITE,Angiostrongyliasis,China,83623657
+PARASITE,Angiostrongyliasis,India,280953954
+PARASITE,Angiostrongyliasis,Southeast Asia,241495685
+PARASITE,Angiostrongyliasis,Africa,465158619
+PARASITE,Angiostrongyliasis,Oceania,10220561
+PARASITE,Angiostrongyliasis,Central America and Caribbean,465660
+PARASITE,Angiostrongyliasis,South America,246822
+PARASITE,Angiostrongyliasis,Europe,478123644
+PARASITE,Angiostrongyliasis,North America,25482111
+PARASITE,Angiostrongyliasis - abdominal,rest of Asia,162374485
+PARASITE,Angiostrongyliasis - abdominal,China,857293
+PARASITE,Angiostrongyliasis - abdominal,India,269638944
+PARASITE,Angiostrongyliasis - abdominal,Africa,465158619
+PARASITE,Angiostrongyliasis - abdominal,Central America and Caribbean,54642
+PARASITE,Angiostrongyliasis - abdominal,South America,544543
+PARASITE,Angiostrongyliasis - abdominal,Europe,478123644
+PARASITE,Angiostrongyliasis - abdominal,North America,25482111
+BACTERIUM,Anthrax,rest of Asia,161770097
+BACTERIUM,Anthrax,China,264861506
+BACTERIUM,Anthrax,India,242487513
+BACTERIUM,Anthrax,Southeast Asia,172312147
+BACTERIUM,Anthrax,Africa,279129970
+BACTERIUM,Anthrax,Central America and Caribbean,112869277
+BACTERIUM,Anthrax,South America,76500132
+BACTERIUM,Anthrax,Europe,156663347
+BACTERIUM,Anthrax,North America,191665874
+PARASITE,Babesiosis,rest of Asia,290806931
+PARASITE,Babesiosis,China,456596352
+PARASITE,Babesiosis,India,311316773
+PARASITE,Babesiosis,Southeast Asia,4209017
+PARASITE,Babesiosis,Africa,481952399
+PARASITE,Babesiosis,Central America and Caribbean,113367680
+PARASITE,Babesiosis,South America,76656209
+PARASITE,Babesiosis,Europe,499358574
+PARASITE,Babesiosis,North America,214262115
+PARASITE,Balantidiasis,rest of Asia,171871735
+PARASITE,Balantidiasis,China,419517410
+PARASITE,Balantidiasis,India,278808181
+PARASITE,Balantidiasis,Southeast Asia,180447811
+PARASITE,Balantidiasis,Africa,184283892
+PARASITE,Balantidiasis,Central America and Caribbean,41638291
+PARASITE,Balantidiasis,Europe,141081915
+BACTERIUM,Bartonellosis - cat borne,rest of Asia,275322942
+BACTERIUM,Bartonellosis - cat borne,China,463148104
+BACTERIUM,Bartonellosis - cat borne,India,311432781
+BACTERIUM,Bartonellosis - cat borne,Southeast Asia,92816408
+BACTERIUM,Bartonellosis - cat borne,Africa,481952527
+BACTERIUM,Bartonellosis - cat borne,Central America and Caribbean,113118116
+BACTERIUM,Bartonellosis - cat borne,South America,83136874
+BACTERIUM,Bartonellosis - cat borne,Europe,499484426
+BACTERIUM,Bartonellosis - cat borne,North America,214297361
+BACTERIUM,Bartonellosis - other systemic,rest of Asia,301179064
+BACTERIUM,Bartonellosis - other systemic,China,466840005
+BACTERIUM,Bartonellosis - other systemic,India,312198595
+BACTERIUM,Bartonellosis - other systemic,Southeast Asia,267933114
+BACTERIUM,Bartonellosis - other systemic,Africa,774695855
+BACTERIUM,Bartonellosis - other systemic,Central America and Caribbean,143666232
+BACTERIUM,Bartonellosis - other systemic,South America,79391334
+BACTERIUM,Bartonellosis - other systemic,Europe,499639486
+BACTERIUM,Bartonellosis - other systemic,North America,220992871
+PARASITE,Baylisascariasis,rest of Asia,10164173
+PARASITE,Baylisascariasis,China,2423033
+PARASITE,Baylisascariasis,India,150457
+PARASITE,Baylisascariasis,Africa,9444232
+PARASITE,Baylisascariasis,Central America and Caribbean,113248367
+PARASITE,Baylisascariasis,South America,43856653
+PARASITE,Baylisascariasis,Europe,117007130
+PARASITE,Baylisascariasis,North America,213631398
+BACTERIUM,Brucellosis,rest of Asia,254702255
+BACTERIUM,Brucellosis,China,267305854
+BACTERIUM,Brucellosis,India,311140276
+BACTERIUM,Brucellosis,Southeast Asia,182413822
+BACTERIUM,Brucellosis,Africa,541452302
+BACTERIUM,Brucellosis,Oceania,1
+BACTERIUM,Brucellosis,Central America and Caribbean,31634876
+BACTERIUM,Brucellosis,South America,33754720
+BACTERIUM,Brucellosis,Europe,497851756
+BACTERIUM,Brucellosis,North America,43671629
+VIRUS,Bunyaviridae infections - misc.,rest of Asia,17824856
+VIRUS,Bunyaviridae infections - misc.,China,2423033
+VIRUS,Bunyaviridae infections - misc.,India,150457
+VIRUS,Bunyaviridae infections - misc.,Africa,47668
+VIRUS,Bunyaviridae infections - misc.,Central America and Caribbean,112869277
+VIRUS,Bunyaviridae infections - misc.,South America,76500132
+VIRUS,Bunyaviridae infections - misc.,Europe,445693547
+VIRUS,Bunyaviridae infections - misc.,North America,192273668
+VIRUS,California encephalitis group,rest of Asia,271763780
+VIRUS,California encephalitis group,China,454901210
+VIRUS,California encephalitis group,India,207730235
+VIRUS,California encephalitis group,Southeast Asia,3868724
+VIRUS,California encephalitis group,Africa,77185391
+VIRUS,California encephalitis group,Central America and Caribbean,114062537
+VIRUS,California encephalitis group,South America,76500132
+VIRUS,California encephalitis group,Europe,497537846
+VIRUS,California encephalitis group,North America,218189585
+BACTERIUM,Campylobacteriosis,rest of Asia,162388286
+BACTERIUM,Campylobacteriosis,China,264863144
+BACTERIUM,Campylobacteriosis,India,242447833
+BACTERIUM,Campylobacteriosis,Southeast Asia,180045155
+BACTERIUM,Campylobacteriosis,Africa,29012039
+BACTERIUM,Campylobacteriosis,Central America and Caribbean,105087858
+BACTERIUM,Campylobacteriosis,Europe,161737017
+BACTERIUM,Campylobacteriosis,North America,175006580
+PARASITE,Capillariasis - extraintestinal,rest of Asia,289820146
+PARASITE,Capillariasis - extraintestinal,China,459931454
+PARASITE,Capillariasis - extraintestinal,India,311536256
+PARASITE,Capillariasis - extraintestinal,Southeast Asia,112332163
+PARASITE,Capillariasis - extraintestinal,Africa,519097686
+PARASITE,Capillariasis - extraintestinal,Central America and Caribbean,36283312
+PARASITE,Capillariasis - extraintestinal,South America,90407055
+PARASITE,Capillariasis - extraintestinal,Europe,499455977
+PARASITE,Capillariasis - extraintestinal,North America,194109156
+VIRUS,Chikungunya,rest of Asia,6997120
+VIRUS,Chikungunya,China,1851376
+VIRUS,Chikungunya,India,7418382
+VIRUS,Chikungunya,Southeast Asia,209032117
+VIRUS,Chikungunya,Africa,645264908
+FUNGUS,Coccidioidomycosis,rest of Asia,6347
+FUNGUS,Coccidioidomycosis,Africa,53080726
+FUNGUS,Coccidioidomycosis,Oceania,1193495
+FUNGUS,Coccidioidomycosis,Central America and Caribbean,97178639
+FUNGUS,Coccidioidomycosis,South America,236463073
+FUNGUS,Coccidioidomycosis,Europe,233551
+FUNGUS,Coccidioidomycosis,North America,112396688
+VIRUS,Crimean-Congo hemorrhagic fever,rest of Asia,162384122
+VIRUS,Crimean-Congo hemorrhagic fever,China,264861924
+VIRUS,Crimean-Congo hemorrhagic fever,India,242422272
+VIRUS,Crimean-Congo hemorrhagic fever,Southeast Asia,172312147
+VIRUS,Crimean-Congo hemorrhagic fever,Africa,703036951
+VIRUS,Crimean-Congo hemorrhagic fever,Europe,261723157
+PARASITE,Cryptosporidiosis,rest of Asia,300761048
+PARASITE,Cryptosporidiosis,China,466561655
+PARASITE,Cryptosporidiosis,India,311564128
+PARASITE,Cryptosporidiosis,Southeast Asia,321925489
+PARASITE,Cryptosporidiosis,Africa,604811876
+PARASITE,Cryptosporidiosis,Oceania,20334772
+PARASITE,Cryptosporidiosis,Central America and Caribbean,114008149
+PARASITE,Cryptosporidiosis,South America,76556714
+PARASITE,Cryptosporidiosis,Europe,499575521
+PARASITE,Cryptosporidiosis,North America,218240571
+VIRUS,Dengue,rest of Asia,14657803
+VIRUS,Dengue,China,1851376
+VIRUS,Dengue,India,7418382
+VIRUS,Dengue,Southeast Asia,209035217
+VIRUS,Dengue,Central America and Caribbean,123570442
+VIRUS,Dengue,South America,223520896
+VIRUS,Dengue,North America,2749137
+PARASITE,Dicrocoeliasis,rest of Asia,10510723
+PARASITE,Dicrocoeliasis,Africa,5841219
+PARASITE,Dicrocoeliasis,Central America and Caribbean,114002162
+PARASITE,Dicrocoeliasis,South America,76500132
+PARASITE,Dicrocoeliasis,Europe,426275802
+PARASITE,Dicrocoeliasis,North America,215698835
+PARASITE,Dioctophyma renale infection,rest of Asia,163092958
+PARASITE,Dioctophyma renale infection,China,857293
+PARASITE,Dioctophyma renale infection,India,269638944
+PARASITE,Dioctophyma renale infection,Africa,465158619
+PARASITE,Dioctophyma renale infection,Central America and Caribbean,194
+PARASITE,Dioctophyma renale infection,South America,73327896
+PARASITE,Dioctophyma renale infection,Europe,487404894
+PARASITE,Dioctophyma renale infection,North America,8187382
+PARASITE,Diphyllobothriasis,rest of Asia,285007531
+PARASITE,Diphyllobothriasis,China,460676427
+PARASITE,Diphyllobothriasis,India,230508696
+PARASITE,Diphyllobothriasis,Southeast Asia,33245977
+PARASITE,Diphyllobothriasis,Africa,77237272
+PARASITE,Diphyllobothriasis,Europe,498350881
+PARASITE,Diphyllobothriasis,North America,190078413
+PARASITE,Dipylidiasis,rest of Asia,289682419
+PARASITE,Dipylidiasis,China,459152161
+PARASITE,Dipylidiasis,India,311403898
+PARASITE,Dipylidiasis,Southeast Asia,63511656
+PARASITE,Dipylidiasis,Africa,157622243
+PARASITE,Dipylidiasis,South America,66060974
+PARASITE,Dipylidiasis,Europe,497561693
+PARASITE,Dipylidiasis,North America,189543606
+PARASITE,Dirofilariasis,rest of Asia,291643327
+PARASITE,Dirofilariasis,China,462602968
+PARASITE,Dirofilariasis,India,311616427
+PARASITE,Dirofilariasis,Southeast Asia,127708834
+PARASITE,Dirofilariasis,Africa,313453986
+PARASITE,Dirofilariasis,Oceania,5
+PARASITE,Dirofilariasis,Central America and Caribbean,113844885
+PARASITE,Dirofilariasis,South America,68632263
+PARASITE,Dirofilariasis,Europe,499306103
+PARASITE,Dirofilariasis,North America,217612758
+VIRUS,Ebola,rest of Asia,1975
+VIRUS,Ebola,China,835380
+VIRUS,Ebola,India,1736
+VIRUS,Ebola,Southeast Asia,245595826
+VIRUS,Ebola,Africa,623880908
+VIRUS,Ebola,Oceania,5812874
+VIRUS,Ebola,Europe,63456076
+PARASITE,Echinococcosis - multilocular,rest of Asia,293285631
+PARASITE,Echinococcosis - multilocular,China,464436852
+PARASITE,Echinococcosis - multilocular,India,311743783
+PARASITE,Echinococcosis - multilocular,Southeast Asia,215257660
+PARASITE,Echinococcosis - multilocular,Africa,400206988
+PARASITE,Echinococcosis - multilocular,Central America and Caribbean,107434326
+PARASITE,Echinococcosis - multilocular,South America,197336
+PARASITE,Echinococcosis - multilocular,Europe,499035420
+PARASITE,Echinococcosis - multilocular,North America,217448726
+PARASITE,Echinococcosis - unilocular,rest of Asia,293248539
+PARASITE,Echinococcosis - unilocular,China,463337500
+PARASITE,Echinococcosis - unilocular,India,311743774
+PARASITE,Echinococcosis - unilocular,Southeast Asia,182429088
+PARASITE,Echinococcosis - unilocular,Africa,281254699
+PARASITE,Echinococcosis - unilocular,Oceania,3214725
+PARASITE,Echinococcosis - unilocular,Central America and Caribbean,114002162
+PARASITE,Echinococcosis - unilocular,South America,81564840
+PARASITE,Echinococcosis - unilocular,Europe,497601240
+PARASITE,Echinococcosis - unilocular,North America,218116195
+PARASITE,Echinostomiasis,rest of Asia,219823679
+PARASITE,Echinostomiasis,China,344533302
+PARASITE,Echinostomiasis,India,269638944
+PARASITE,Echinostomiasis,Africa,465158817
+PARASITE,Echinostomiasis,Europe,493792511
+BACTERIUM,Ehrlichiosis - human monocytic,rest of Asia,300380006
+BACTERIUM,Ehrlichiosis - human monocytic,China,457790762
+BACTERIUM,Ehrlichiosis - human monocytic,India,311403898
+BACTERIUM,Ehrlichiosis - human monocytic,Southeast Asia,51161955
+BACTERIUM,Ehrlichiosis - human monocytic,Africa,166230661
+BACTERIUM,Ehrlichiosis - human monocytic,Central America and Caribbean,114060024
+BACTERIUM,Ehrlichiosis - human monocytic,South America,128163210
+BACTERIUM,Ehrlichiosis - human monocytic,Europe,497756829
+BACTERIUM,Ehrlichiosis - human monocytic,North America,218176983
+PARASITE,Fascioliasis,rest of Asia,244467030
+PARASITE,Fascioliasis,China,265683569
+PARASITE,Fascioliasis,India,305751334
+PARASITE,Fascioliasis,Southeast Asia,172312147
+PARASITE,Fascioliasis,Africa,482751699
+PARASITE,Fascioliasis,Oceania,14852042
+PARASITE,Fascioliasis,South America,197336
+PARASITE,Fascioliasis,Europe,498394514
+PARASITE,Fascioliasis,North America,8321381
+PARASITE,Giardiasis,rest of Asia,300792375
+PARASITE,Giardiasis,China,466561703
+PARASITE,Giardiasis,India,311565864
+PARASITE,Giardiasis,Southeast Asia,252158962
+PARASITE,Giardiasis,Africa,536531547
+PARASITE,Giardiasis,Oceania,269939
+PARASITE,Giardiasis,Central America and Caribbean,114009070
+PARASITE,Giardiasis,South America,115577758
+PARASITE,Giardiasis,Europe,499502251
+PARASITE,Giardiasis,North America,218230438
+PARASITE,Gnathostomiasis,rest of Asia,162795269
+PARASITE,Gnathostomiasis,China,267228369
+PARASITE,Gnathostomiasis,India,242436108
+PARASITE,Gnathostomiasis,Southeast Asia,172312147
+PARASITE,Gnathostomiasis,Africa,116367128
+PARASITE,Gnathostomiasis,Europe,141081915
+PARASITE,Gongylonemiasis,rest of Asia,161110637
+PARASITE,Gongylonemiasis,China,264861506
+PARASITE,Gongylonemiasis,India,242422272
+PARASITE,Gongylonemiasis,Southeast Asia,172312147
+PARASITE,Gongylonemiasis,Africa,28886049
+PARASITE,Gongylonemiasis,Central America and Caribbean,112869277
+PARASITE,Gongylonemiasis,South America,86600165
+PARASITE,Gongylonemiasis,Europe,141081915
+PARASITE,Gongylonemiasis,North America,191675879
+VIRUS,Hantavirus pulmonary syndrome,rest of Asia,271139841
+VIRUS,Hantavirus pulmonary syndrome,China,439421690
+VIRUS,Hantavirus pulmonary syndrome,India,303610898
+VIRUS,Hantavirus pulmonary syndrome,Southeast Asia,111574437
+VIRUS,Hantavirus pulmonary syndrome,Africa,507509149
+VIRUS,Hantavirus pulmonary syndrome,Central America and Caribbean,49183498
+VIRUS,Hantavirus pulmonary syndrome,South America,143647102
+VIRUS,Hantavirus pulmonary syndrome,Europe,488077508
+VIRUS,Hantavirus pulmonary syndrome,North America,97096711
+VIRUS,Hantaviruses - Old World,rest of Asia,301564476
+VIRUS,Hantaviruses - Old World,China,466732985
+VIRUS,Hantaviruses - Old World,India,312182914
+VIRUS,Hantaviruses - Old World,Southeast Asia,322555438
+VIRUS,Hantaviruses - Old World,Africa,519208181
+VIRUS,Hantaviruses - Old World,Oceania,5492464
+VIRUS,Hantaviruses - Old World,Europe,500401413
+VIRUS,Hantaviruses - Old World,North America,190067385
+VIRUS,Hendra virus disease,Southeast Asia,18748944
+VIRUS,Hendra virus disease,Africa,515071064
+VIRUS,Hendra virus disease,Oceania,8395471
+VIRUS,Hepatitis E,rest of Asia,298324246
+VIRUS,Hepatitis E,China,460404129
+VIRUS,Hepatitis E,India,312173814
+VIRUS,Hepatitis E,Southeast Asia,201989977
+VIRUS,Hepatitis E,Africa,512257359
+VIRUS,Hepatitis E,Central America and Caribbean,112869277
+VIRUS,Hepatitis E,South America,76500132
+VIRUS,Hepatitis E,Europe,498808821
+VIRUS,Hepatitis E,North America,193326942
+VIRUS,Herpes B infection,rest of Asia,106648178
+VIRUS,Herpes B infection,China,378346361
+VIRUS,Herpes B infection,India,308515763
+VIRUS,Herpes B infection,Southeast Asia,244785932
+VIRUS,Herpes B infection,Africa,27386013
+FUNGUS,Histoplasmosis,rest of Asia,24770980
+FUNGUS,Histoplasmosis,China,4359288
+FUNGUS,Histoplasmosis,India,54379435
+FUNGUS,Histoplasmosis,Southeast Asia,23277618
+FUNGUS,Histoplasmosis,Africa,264610580
+FUNGUS,Histoplasmosis,Central America and Caribbean,126305374
+FUNGUS,Histoplasmosis,South America,239621073
+FUNGUS,Histoplasmosis,Europe,450568746
+FUNGUS,Histoplasmosis,North America,180615343
+PARASITE,Hymenolepis diminuta infection,rest of Asia,298141192
+PARASITE,Hymenolepis diminuta infection,China,459929045
+PARASITE,Hymenolepis diminuta infection,India,311511257
+PARASITE,Hymenolepis diminuta infection,Southeast Asia,208260170
+PARASITE,Hymenolepis diminuta infection,Africa,531611256
+PARASITE,Hymenolepis diminuta infection,Europe,499455977
+PARASITE,Hymenolepis diminuta infection,North America,188845901
+PARASITE,Hymenolepis nana infection,rest of Asia,282705313
+PARASITE,Hymenolepis nana infection,China,454923091
+PARASITE,Hymenolepis nana infection,India,311316782
+PARASITE,Hymenolepis nana infection,Southeast Asia,113006373
+PARASITE,Hymenolepis nana infection,Africa,553093681
+PARASITE,Hymenolepis nana infection,Europe,499408250
+PARASITE,Hymenolepis nana infection,North America,188845901
+VIRUS,Influenza,rest of Asia,282801869
+VIRUS,Influenza,China,456831805
+VIRUS,Influenza,India,311437874
+VIRUS,Influenza,Southeast Asia,218492043
+VIRUS,Influenza,Africa,603455881
+VIRUS,Influenza,Oceania,5
+VIRUS,Influenza,Central America and Caribbean,109949226
+VIRUS,Influenza,South America,33577940
+VIRUS,Influenza,Europe,499494335
+VIRUS,Influenza,North America,215071316
+VIRUS,Japanese encephalitis,rest of Asia,161111039
+VIRUS,Japanese encephalitis,China,264861506
+VIRUS,Japanese encephalitis,India,242424084
+VIRUS,Japanese encephalitis,Southeast Asia,240956805
+VIRUS,Japanese encephalitis,Africa,29781332
+VIRUS,Japanese encephalitis,Europe,143172771
+BACTERIUM,Japanese spotted fever,rest of Asia,206467430
+BACTERIUM,Japanese spotted fever,China,1449280
+BACTERIUM,Japanese spotted fever,India,269932265
+BACTERIUM,Japanese spotted fever,Southeast Asia,228210364
+BACTERIUM,Japanese spotted fever,Africa,465158619
+BACTERIUM,Japanese spotted fever,Central America and Caribbean,105087858
+BACTERIUM,Japanese spotted fever,Europe,487237958
+BACTERIUM,Japanese spotted fever,North America,175005700
+VIRUS,Kyasanur Forest disease,rest of Asia,134256107
+VIRUS,Kyasanur Forest disease,China,215493209
+VIRUS,Kyasanur Forest disease,India,310615990
+VIRUS,Kyasanur Forest disease,Southeast Asia,110873459
+VIRUS,Kyasanur Forest disease,Africa,465158619
+VIRUS,Kyasanur Forest disease,Europe,357150979
+VIRUS,Lassa fever,Africa,651787289
+PARASITE,Leishmaniasis - cutaneous,rest of Asia,300600728
+PARASITE,Leishmaniasis - cutaneous,China,460118281
+PARASITE,Leishmaniasis - cutaneous,India,311550070
+PARASITE,Leishmaniasis - cutaneous,Southeast Asia,123007177
+PARASITE,Leishmaniasis - cutaneous,Africa,778588529
+PARASITE,Leishmaniasis - cutaneous,Central America and Caribbean,106229909
+PARASITE,Leishmaniasis - cutaneous,South America,250902048
+PARASITE,Leishmaniasis - cutaneous,Europe,499510442
+PARASITE,Leishmaniasis - cutaneous,North America,198397323
+PARASITE,Leishmaniasis - mucocutaneous,rest of Asia,77276672
+PARASITE,Leishmaniasis - mucocutaneous,India,269638944
+PARASITE,Leishmaniasis - mucocutaneous,Africa,468896771
+PARASITE,Leishmaniasis - mucocutaneous,Central America and Caribbean,78064625
+PARASITE,Leishmaniasis - mucocutaneous,South America,211339243
+PARASITE,Leishmaniasis - mucocutaneous,Europe,357150979
+PARASITE,Leishmaniasis - mucocutaneous,North America,25482111
+PARASITE,Leishmaniasis - visceral,rest of Asia,289877081
+PARASITE,Leishmaniasis - visceral,China,459152161
+PARASITE,Leishmaniasis - visceral,India,311536865
+PARASITE,Leishmaniasis - visceral,Southeast Asia,63583994
+PARASITE,Leishmaniasis - visceral,Africa,647504010
+PARASITE,Leishmaniasis - visceral,Central America and Caribbean,77831144
+PARASITE,Leishmaniasis - visceral,South America,246533421
+PARASITE,Leishmaniasis - visceral,Europe,499578742
+PARASITE,Leishmaniasis - visceral,North America,189543606
+BACTERIUM,Leptospirosis,rest of Asia,301320434
+BACTERIUM,Leptospirosis,China,466841278
+BACTERIUM,Leptospirosis,India,312210696
+BACTERIUM,Leptospirosis,Southeast Asia,326866439
+BACTERIUM,Leptospirosis,Africa,760395235
+BACTERIUM,Leptospirosis,Oceania,8549559
+BACTERIUM,Leptospirosis,Central America and Caribbean,114067327
+BACTERIUM,Leptospirosis,South America,260583071
+BACTERIUM,Leptospirosis,Europe,499823855
+BACTERIUM,Leptospirosis,North America,218227577
+BACTERIUM,Listeriosis,rest of Asia,172307747
+BACTERIUM,Listeriosis,China,419624697
+BACTERIUM,Listeriosis,India,278808181
+BACTERIUM,Listeriosis,Southeast Asia,179075120
+BACTERIUM,Listeriosis,Africa,60729730
+BACTERIUM,Listeriosis,Central America and Caribbean,112869277
+BACTERIUM,Listeriosis,South America,76500132
+BACTERIUM,Listeriosis,Europe,154806537
+BACTERIUM,Listeriosis,North America,191527099
+BACTERIUM,Lyme disease,rest of Asia,298648225
+BACTERIUM,Lyme disease,China,463922362
+BACTERIUM,Lyme disease,India,312122781
+BACTERIUM,Lyme disease,Southeast Asia,88683468
+BACTERIUM,Lyme disease,Africa,481950989
+BACTERIUM,Lyme disease,Central America and Caribbean,114060024
+BACTERIUM,Lyme disease,South America,107134288
+BACTERIUM,Lyme disease,Europe,499499218
+BACTERIUM,Lyme disease,North America,218167104
+VIRUS,Lymphocytic choriomeningitis,rest of Asia,227396020
+VIRUS,Lymphocytic choriomeningitis,China,348246112
+VIRUS,Lymphocytic choriomeningitis,India,269638944
+VIRUS,Lymphocytic choriomeningitis,Africa,466185533
+VIRUS,Lymphocytic choriomeningitis,Central America and Caribbean,31037
+VIRUS,Lymphocytic choriomeningitis,Europe,498011204
+VIRUS,Lymphocytic choriomeningitis,North America,54778870
+BACTERIUM,Melioidosis,rest of Asia,91279652
+BACTERIUM,Melioidosis,China,376883675
+BACTERIUM,Melioidosis,India,198149282
+BACTERIUM,Melioidosis,Southeast Asia,243553839
+BACTERIUM,Melioidosis,Africa,30050982
+PARASITE,Metagonimiasis,rest of Asia,271752013
+PARASITE,Metagonimiasis,China,454792067
+PARASITE,Metagonimiasis,India,207730235
+PARASITE,Metagonimiasis,Southeast Asia,3868724
+PARASITE,Metagonimiasis,Africa,77185391
+PARASITE,Metagonimiasis,Central America and Caribbean,105087858
+PARASITE,Metagonimiasis,Europe,497537846
+PARASITE,Metagonimiasis,North America,210332961
+FUNGUS,Microsporidiosis,rest of Asia,130262825
+FUNGUS,Microsporidiosis,China,384421737
+FUNGUS,Microsporidiosis,India,202789749
+FUNGUS,Microsporidiosis,Southeast Asia,244039557
+FUNGUS,Microsporidiosis,Africa,252921479
+FUNGUS,Microsporidiosis,Central America and Caribbean,42781592
+FUNGUS,Microsporidiosis,South America,14558139
+FUNGUS,Microsporidiosis,Europe,131411526
+FUNGUS,Microsporidiosis,North America,85352929
+VIRUS,Nipah virus infection,rest of Asia,97898464
+VIRUS,Nipah virus infection,China,285645447
+VIRUS,Nipah virus infection,India,296464482
+VIRUS,Nipah virus infection,Southeast Asia,323204457
+VIRUS,Nipah virus infection,Africa,515071064
+VIRUS,Nipah virus infection,Oceania,805948
+BACTERIUM,North Asian tick typhus,rest of Asia,166909713
+BACTERIUM,North Asian tick typhus,China,345868259
+BACTERIUM,North Asian tick typhus,India,269638944
+BACTERIUM,North Asian tick typhus,Africa,465158619
+BACTERIUM,North Asian tick typhus,Europe,448449838
+PARASITE,Opisthorchiasis,rest of Asia,284921922
+PARASITE,Opisthorchiasis,China,460545215
+PARASITE,Opisthorchiasis,India,212104935
+PARASITE,Opisthorchiasis,Southeast Asia,33245092
+PARASITE,Opisthorchiasis,Africa,77237145
+PARASITE,Opisthorchiasis,Europe,498327121
+PARASITE,Opisthorchiasis,North America,188845901
+FUNGUS,Paracoccidioidomycosis,rest of Asia,160811356
+FUNGUS,Paracoccidioidomycosis,China,264861506
+FUNGUS,Paracoccidioidomycosis,India,242422272
+FUNGUS,Paracoccidioidomycosis,Southeast Asia,172312147
+FUNGUS,Paracoccidioidomycosis,Africa,28659943
+FUNGUS,Paracoccidioidomycosis,Central America and Caribbean,96068990
+FUNGUS,Paracoccidioidomycosis,South America,236176763
+FUNGUS,Paracoccidioidomycosis,Europe,141081915
+FUNGUS,Paracoccidioidomycosis,North America,75106419
+PARASITE,Paragonimiasis,rest of Asia,271762714
+PARASITE,Paragonimiasis,China,458946318
+PARASITE,Paragonimiasis,India,236883252
+PARASITE,Paragonimiasis,Southeast Asia,37063020
+PARASITE,Paragonimiasis,Africa,109485025
+PARASITE,Paragonimiasis,Central America and Caribbean,105362952
+PARASITE,Paragonimiasis,South America,30575634
+PARASITE,Paragonimiasis,Europe,497537846
+PARASITE,Paragonimiasis,North America,216847796
+PARASITE,Pentastomiasis - Linguatula,rest of Asia,46390764
+PARASITE,Pentastomiasis - Linguatula,China,59955600
+PARASITE,Pentastomiasis - Linguatula,India,75447919
+PARASITE,Pentastomiasis - Linguatula,Southeast Asia,57109923
+PARASITE,Pentastomiasis - Linguatula,Africa,255509201
+PARASITE,Pentastomiasis - Linguatula,Oceania,5
+PARASITE,Pentastomiasis - Linguatula,Central America and Caribbean,40476766
+PARASITE,Pentastomiasis - Linguatula,South America,9106066
+PARASITE,Pentastomiasis - Linguatula,Europe,4593883
+PARASITE,Pentastomiasis - Linguatula,North America,85352929
+BACTERIUM,Plague,rest of Asia,240990760
+BACTERIUM,Plague,China,253013590
+BACTERIUM,Plague,India,311461030
+BACTERIUM,Plague,Southeast Asia,241192747
+BACTERIUM,Plague,Africa,739793762
+BACTERIUM,Plague,Central America and Caribbean,107686845
+BACTERIUM,Plague,South America,51956373
+BACTERIUM,Plague,Europe,487984720
+BACTERIUM,Plague,North America,214193485
+VIRUS,Powassan,rest of Asia,271752013
+VIRUS,Powassan,China,454792067
+VIRUS,Powassan,India,207730235
+VIRUS,Powassan,Southeast Asia,3868724
+VIRUS,Powassan,Africa,77185391
+VIRUS,Powassan,Central America and Caribbean,113690120
+VIRUS,Powassan,Europe,497537846
+VIRUS,Powassan,North America,217587250
+BACTERIUM,Q-fever,rest of Asia,245281049
+BACTERIUM,Q-fever,China,266542162
+BACTERIUM,Q-fever,India,305798895
+BACTERIUM,Q-fever,Southeast Asia,172312147
+BACTERIUM,Q-fever,Africa,470018173
+BACTERIUM,Q-fever,Central America and Caribbean,113372373
+BACTERIUM,Q-fever,South America,97518030
+BACTERIUM,Q-fever,Europe,498649913
+BACTERIUM,Q-fever,North America,211471252
+VIRUS,Rabies,rest of Asia,300475232
+VIRUS,Rabies,China,466482491
+VIRUS,Rabies,India,311614431
+VIRUS,Rabies,Southeast Asia,329945736
+VIRUS,Rabies,Africa,736085225
+VIRUS,Rabies,Oceania,17455382
+VIRUS,Rabies,Central America and Caribbean,139267169
+VIRUS,Rabies,South America,262082882
+VIRUS,Rabies,Europe,500327550
+VIRUS,Rabies,North America,220606439
+BACTERIUM,Relapsing fever,Africa,221707388
+BACTERIUM,Relapsing fever,Central America and Caribbean,139086437
+BACTERIUM,Relapsing fever,South America,80422381
+BACTERIUM,Relapsing fever,Europe,2137377
+BACTERIUM,Relapsing fever,North America,219658533
+BACTERIUM,Rickettsia felis infection,rest of Asia,272011808
+BACTERIUM,Rickettsia felis infection,China,454792067
+BACTERIUM,Rickettsia felis infection,India,311316773
+BACTERIUM,Rickettsia felis infection,Southeast Asia,3868724
+BACTERIUM,Rickettsia felis infection,Africa,492910145
+BACTERIUM,Rickettsia felis infection,Central America and Caribbean,108897204
+BACTERIUM,Rickettsia felis infection,South America,95518169
+BACTERIUM,Rickettsia felis infection,Europe,499334640
+BACTERIUM,Rickettsia felis infection,North America,212111663
+BACTERIUM,Rickettsialpox,rest of Asia,271139841
+BACTERIUM,Rickettsialpox,China,439421690
+BACTERIUM,Rickettsialpox,India,303610898
+BACTERIUM,Rickettsialpox,Southeast Asia,111574437
+BACTERIUM,Rickettsialpox,Africa,507509149
+BACTERIUM,Rickettsialpox,Central America and Caribbean,1827785
+BACTERIUM,Rickettsialpox,Europe,488077508
+BACTERIUM,Rickettsialpox,North America,39693437
+VIRUS,Rift Valley fever,rest of Asia,78030638
+VIRUS,Rift Valley fever,China,26951152
+VIRUS,Rift Valley fever,India,270041834
+VIRUS,Rift Valley fever,Southeast Asia,159131682
+VIRUS,Rift Valley fever,Africa,757976536
+VIRUS,Rift Valley fever,Europe,361869521
+BACTERIUM,Salmonellosis,rest of Asia,241835911
+BACTERIUM,Salmonellosis,China,265557031
+BACTERIUM,Salmonellosis,India,305776895
+BACTERIUM,Salmonellosis,Southeast Asia,180045155
+BACTERIUM,Salmonellosis,Africa,469906111
+BACTERIUM,Salmonellosis,Central America and Caribbean,105087858
+BACTERIUM,Salmonellosis,Europe,488025513
+BACTERIUM,Salmonellosis,North America,175006092
+PARASITE,Sarcocystosis,rest of Asia,273237910
+PARASITE,Sarcocystosis,China,458991258
+PARASITE,Sarcocystosis,India,226634038
+PARASITE,Sarcocystosis,Southeast Asia,17170860
+PARASITE,Sarcocystosis,Africa,77185518
+PARASITE,Sarcocystosis,Europe,498106992
+PARASITE,Sarcocystosis,North America,190593337
+PARASITE,Schistosomiasis - japonicum,rest of Asia,77276672
+PARASITE,Schistosomiasis - japonicum,India,269638944
+PARASITE,Schistosomiasis - japonicum,Africa,465158619
+PARASITE,Schistosomiasis - japonicum,Europe,357150979
+PARASITE,Schistosomiasis - mansoni,rest of Asia,162374485
+PARASITE,Schistosomiasis - mansoni,China,857293
+PARASITE,Schistosomiasis - mansoni,India,269638944
+PARASITE,Schistosomiasis - mansoni,Africa,607819476
+PARASITE,Schistosomiasis - mansoni,South America,156447
+PARASITE,Schistosomiasis - mansoni,Europe,478123644
+VIRUS,Severe fever with thrombocytopenia syndrome,rest of Asia,89493076
+VIRUS,Severe fever with thrombocytopenia syndrome,China,346725516
+VIRUS,Severe fever with thrombocytopenia syndrome,Europe,196388801
+BACTERIUM,Spotted fevers - New World,rest of Asia,77276713
+BACTERIUM,Spotted fevers - New World,India,269638944
+BACTERIUM,Spotted fevers - New World,Africa,465158619
+BACTERIUM,Spotted fevers - New World,Central America and Caribbean,107391372
+BACTERIUM,Spotted fevers - New World,South America,49528488
+BACTERIUM,Spotted fevers - New World,Europe,357150979
+BACTERIUM,Spotted fevers - New World,North America,214628718
+BACTERIUM,Spotted fevers - Old World,rest of Asia,291356489
+BACTERIUM,Spotted fevers - Old World,China,459269619
+BACTERIUM,Spotted fevers - Old World,India,312177695
+BACTERIUM,Spotted fevers - Old World,Southeast Asia,241958219
+BACTERIUM,Spotted fevers - Old World,Africa,490206406
+BACTERIUM,Spotted fevers - Old World,Central America and Caribbean,105087858
+BACTERIUM,Spotted fevers - Old World,Europe,499408263
+BACTERIUM,Spotted fevers - Old World,North America,210332961
+PARASITE,Taeniasis,rest of Asia,272018046
+PARASITE,Taeniasis,China,454792067
+PARASITE,Taeniasis,India,311316773
+PARASITE,Taeniasis,Southeast Asia,3868724
+PARASITE,Taeniasis,Africa,481950791
+PARASITE,Taeniasis,Europe,499408250
+PARASITE,Taeniasis,North America,188845901
+PARASITE,Thelaziasis,rest of Asia,271752244
+PARASITE,Thelaziasis,China,454947804
+PARASITE,Thelaziasis,India,207730314
+PARASITE,Thelaziasis,Southeast Asia,4005360
+PARASITE,Thelaziasis,Africa,77296735
+PARASITE,Thelaziasis,Europe,498516657
+PARASITE,Thelaziasis,North America,188845901
+VIRUS,Tick-borne encephalitis,rest of Asia,282773637
+VIRUS,Tick-borne encephalitis,China,454792067
+VIRUS,Tick-borne encephalitis,India,311316773
+VIRUS,Tick-borne encephalitis,Southeast Asia,3868724
+VIRUS,Tick-borne encephalitis,Africa,481952598
+VIRUS,Tick-borne encephalitis,Europe,499440310
+VIRUS,Tick-borne encephalitis,North America,188845901
+PARASITE,Toxocariasis,rest of Asia,300369455
+PARASITE,Toxocariasis,China,459152161
+PARASITE,Toxocariasis,India,311403977
+PARASITE,Toxocariasis,Southeast Asia,63583994
+PARASITE,Toxocariasis,Africa,164894312
+PARASITE,Toxocariasis,Central America and Caribbean,107391372
+PARASITE,Toxocariasis,South America,29643762
+PARASITE,Toxocariasis,Europe,497562745
+PARASITE,Toxocariasis,North America,216876515
+PARASITE,Toxoplasmosis,rest of Asia,300706191
+PARASITE,Toxoplasmosis,China,467044357
+PARASITE,Toxoplasmosis,India,311982906
+PARASITE,Toxoplasmosis,Southeast Asia,318022799
+PARASITE,Toxoplasmosis,Africa,681240613
+PARASITE,Toxoplasmosis,Oceania,16568081
+PARASITE,Toxoplasmosis,Central America and Caribbean,114065505
+PARASITE,Toxoplasmosis,South America,258389739
+PARASITE,Toxoplasmosis,Europe,500550064
+PARASITE,Toxoplasmosis,North America,218253909
+PARASITE,Trichinosis,rest of Asia,293245777
+PARASITE,Trichinosis,China,463342769
+PARASITE,Trichinosis,India,311564128
+PARASITE,Trichinosis,Southeast Asia,182429088
+PARASITE,Trichinosis,Africa,481984384
+PARASITE,Trichinosis,Central America and Caribbean,877176
+PARASITE,Trichinosis,Europe,499685451
+PARASITE,Trichinosis,North America,192352432
+PARASITE,Trichostrongyliasis,rest of Asia,162544187
+PARASITE,Trichostrongyliasis,China,264861506
+PARASITE,Trichostrongyliasis,India,242422272
+PARASITE,Trichostrongyliasis,Southeast Asia,172312147
+PARASITE,Trichostrongyliasis,Africa,31171123
+PARASITE,Trichostrongyliasis,Europe,437247701
+PARASITE,Trypanosomiasis - American,rest of Asia,272029417
+PARASITE,Trypanosomiasis - American,China,466553125
+PARASITE,Trypanosomiasis - American,India,311445070
+PARASITE,Trypanosomiasis - American,Southeast Asia,42992694
+PARASITE,Trypanosomiasis - American,Africa,481950791
+PARASITE,Trypanosomiasis - American,Central America and Caribbean,113889888
+PARASITE,Trypanosomiasis - American,South America,259789526
+PARASITE,Trypanosomiasis - American,Europe,499470489
+PARASITE,Trypanosomiasis - American,North America,217583274
+BACTERIUM,Tuberculosis,rest of Asia,178507740
+BACTERIUM,Tuberculosis,China,423503056
+BACTERIUM,Tuberculosis,India,278892631
+BACTERIUM,Tuberculosis,Southeast Asia,247336277
+BACTERIUM,Tuberculosis,Africa,316486668
+BACTERIUM,Tuberculosis,Oceania,13656219
+BACTERIUM,Tuberculosis,Central America and Caribbean,112869277
+BACTERIUM,Tuberculosis,South America,100796735
+BACTERIUM,Tuberculosis,Europe,460846718
+BACTERIUM,Tuberculosis,North America,191965644
+BACTERIUM,Tularemia,rest of Asia,290001705
+BACTERIUM,Tularemia,China,466539635
+BACTERIUM,Tularemia,India,311511860
+BACTERIUM,Tularemia,Southeast Asia,247427077
+BACTERIUM,Tularemia,Africa,612250316
+BACTERIUM,Tularemia,Oceania,11979480
+BACTERIUM,Tularemia,Central America and Caribbean,113451496
+BACTERIUM,Tularemia,South America,59271596
+BACTERIUM,Tularemia,Europe,499539395
+BACTERIUM,Tularemia,North America,216795491
+BACTERIUM,Typhus - endemic,rest of Asia,284891316
+BACTERIUM,Typhus - endemic,China,450044182
+BACTERIUM,Typhus - endemic,India,304284510
+BACTERIUM,Typhus - endemic,Southeast Asia,244369692
+BACTERIUM,Typhus - endemic,Africa,507509381
+BACTERIUM,Typhus - endemic,Central America and Caribbean,99879349
+BACTERIUM,Typhus - endemic,Europe,494276288
+BACTERIUM,Typhus - endemic,North America,155113713
+BACTERIUM,Typhus - scrub,rest of Asia,273404372
+BACTERIUM,Typhus - scrub,China,448089904
+BACTERIUM,Typhus - scrub,India,311499680
+BACTERIUM,Typhus - scrub,Southeast Asia,242516118
+BACTERIUM,Typhus - scrub,Africa,465158619
+BACTERIUM,Typhus - scrub,Central America and Caribbean,105087858
+BACTERIUM,Typhus - scrub,Europe,490080714
+BACTERIUM,Typhus - scrub,North America,175005700
+VIRUS,Vaccinia and cowpox,rest of Asia,233776485
+VIRUS,Vaccinia and cowpox,China,354555026
+VIRUS,Vaccinia and cowpox,India,287061985
+VIRUS,Vaccinia and cowpox,Southeast Asia,338587
+VIRUS,Vaccinia and cowpox,Africa,508983370
+VIRUS,Vaccinia and cowpox,Central America and Caribbean,749
+VIRUS,Vaccinia and cowpox,South America,35286287
+VIRUS,Vaccinia and cowpox,Europe,496736388
+VIRUS,Venezuelan equine encephalitis,rest of Asia,160811356
+VIRUS,Venezuelan equine encephalitis,China,264861506
+VIRUS,Venezuelan equine encephalitis,India,242422272
+VIRUS,Venezuelan equine encephalitis,Southeast Asia,172312147
+VIRUS,Venezuelan equine encephalitis,Africa,28659943
+VIRUS,Venezuelan equine encephalitis,Central America and Caribbean,112869277
+VIRUS,Venezuelan equine encephalitis,South America,103706188
+VIRUS,Venezuelan equine encephalitis,Europe,141081915
+VIRUS,Venezuelan equine encephalitis,North America,195075041
+VIRUS,West Nile fever,rest of Asia,271947168
+VIRUS,West Nile fever,China,466531106
+VIRUS,West Nile fever,India,219397287
+VIRUS,West Nile fever,Southeast Asia,101016124
+VIRUS,West Nile fever,Africa,180638647
+VIRUS,West Nile fever,Central America and Caribbean,138837115
+VIRUS,West Nile fever,South America,50125706
+VIRUS,West Nile fever,Europe,498321114
+VIRUS,West Nile fever,North America,220351492
+BACTERIUM,Yersiniosis,rest of Asia,198139181
+BACTERIUM,Yersiniosis,China,397299917
+BACTERIUM,Yersiniosis,India,250613148
+BACTERIUM,Yersiniosis,Southeast Asia,180216308
+BACTERIUM,Yersiniosis,Africa,361998687
+BACTERIUM,Yersiniosis,Central America and Caribbean,113367680
+BACTERIUM,Yersiniosis,South America,76796823
+BACTERIUM,Yersiniosis,Europe,475313245
+BACTERIUM,Yersiniosis,North America,212386720
